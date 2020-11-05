@@ -1,0 +1,1192 @@
+﻿Log file open, 11/05/20 20:06:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject_01
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-336794238) SRandInit(-336794238).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.521520
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.11.05-14.06.43:991][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-14.06.43:991][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.05-14.06.44:817][  0]LogInit: Computer: ISHRAQ-PC
+[2020.11.05-14.06.44:817][  0]LogInit: User: farha
+[2020.11.05-14.06.44:817][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.11.05-14.06.44:817][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.05-14.06.44:817][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.11.05-14.06.44:817][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.05-14.06.44:817][  0]LogMemory: Process Physical Memory: 298.45 MB used, 298.45 MB peak
+[2020.11.05-14.06.44:817][  0]LogMemory: Process Virtual Memory: 273.62 MB used, 273.62 MB peak
+[2020.11.05-14.06.44:817][  0]LogMemory: Physical Memory: 2827.90 MB used,  1149.11 MB free, 3977.01 MB total
+[2020.11.05-14.06.44:817][  0]LogMemory: Virtual Memory: 4767.04 MB used,  1149.11 MB free, 134217728.00 MB total
+[2020.11.05-14.06.46:385][  0]LogInit: Using OS detected language (en-US).
+[2020.11.05-14.06.46:385][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.05-14.06.46:582][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.05-14.06.47:548][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.05-14.06.48:849][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.05-14.06.48:933][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.11.05-14.06.48:933][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.05-14.06.48:983][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.05-14.06.48:983][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.05-14.06.48:983][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.05-14.06.48:990][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.05-14.06.48:990][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.05-14.06.48:990][  0]LogWindows: EnumDisplayDevices:
+[2020.11.05-14.06.48:990][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.11.05-14.06.49:019][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.11.05-14.06.49:019][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.05-14.06.49:019][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.11.05-14.06.49:019][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.05-14.06.49:019][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.05-14.06.49:019][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.11.05-14.06.49:022][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.05-14.06.49:107][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.11.05-14.06.49:153][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../GITHUB/IML/MyProject_01/Intermediate/Shaders/WorkingDirectory/8200/).
+[2020.11.05-14.06.49:153][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/E3D8FD8F499A1E51033C07BB64A5935A/'.
+[2020.11.05-14.06.49:159][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.05-14.06.52:770][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.11.05-14.06.52:873][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.11.05-14.06.52:965][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.11.05-14.06.53:081][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.11.05-14.06.53:210][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.11.05-14.06.53:321][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.11.05-14.06.53:415][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.11.05-14.06.53:514][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.11.05-14.06.53:629][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.11.05-14.06.53:725][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.11.05-14.06.53:887][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.11.05-14.06.54:045][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.11.05-14.06.54:161][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.11.05-14.06.54:283][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.11.05-14.06.54:486][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.11.05-14.06.54:486][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.11.05-14.06.54:593][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.11.05-14.06.54:688][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.11.05-14.06.54:892][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.11.05-14.06.54:942][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.11.05-14.06.55:054][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.11.05-14.06.55:175][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.11.05-14.06.55:332][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.11.05-14.06.55:437][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.11.05-14.06.55:437][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.05-14.06.57:053][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: Loaded boot cache 8.93s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/IML/MyProject_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/IML/MyProject_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.05-14.07.05:991][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.05-14.07.06:046][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.05-14.07.06:059][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.05-14.07.06:119][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.11.05-14.07.06:120][  0]LogSlate: Using Freetype 2.6.0
+[2020.11.05-14.07.06:150][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.05-14.07.06:150][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.05-14.07.13:754][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.05-14.07.15:184][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.11.05-14.07.15:247][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.11.05-14.07.15:247][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.05-14.07.15:247][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.11.05-14.07.15:247][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.11.05-14.07.15:247][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.11.05-14.07.15:509][  0]LogNetVersion: MyProject_01 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 560086495)
+[2020.11.05-14.07.16:548][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2020.11.05-14.07.24:028][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.124765 seconds
+[2020.11.05-14.07.24:036][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2020.11.05-14.07.24:036][  0]LogUObjectAllocator: 7577640 out of 0 bytes used by permanent object pool.
+[2020.11.05-14.07.24:036][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.05-14.07.48:680][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.05-14.07.48:809][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.05-14.07.51:470][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.11.05-14.07.53:134][  0]SourceControl: Source control is disabled
+[2020.11.05-14.07.53:138][  0]SourceControl: Source control is disabled
+[2020.11.05-14.07.53:365][  0]SourceControl: Source control is disabled
+[2020.11.05-14.07.53:483][  0]SourceControl: Source control is disabled
+[2020.11.05-14.07.55:578][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.05-14.07.56:101][  0]LogOcInput: OculusInput pre-init called
+[2020.11.05-14.07.57:465][  0]LogEngine: Initializing Engine...
+[2020.11.05-14.07.57:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.05-14.07.58:704][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.05-14.07.58:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.11.05-14.08.00:133][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.05-14.08.00:771][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.08.00:826][  0]LogInit: FAudioDevice initialized.
+[2020.11.05-14.08.01:459][  0]LogDerivedDataCache: Saved boot cache 0.56s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.11.05-14.08.01:607][  0]LogInit: Texture streaming: Enabled
+[2020.11.05-14.08.02:586][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.05-14.08.03:389][  0]LogInit: Transaction tracking system initialized
+[2020.11.05-14.08.04:785][  0]BlueprintLog: New page: Editor Load
+[2020.11.05-14.08.08:199][  0]LocalizationService: Localization service is disabled
+[2020.11.05-14.08.12:752][  0]LogConsoleResponse: Display: 
+[2020.11.05-14.08.17:962][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/' took 0.17s
+[2020.11.05-14.08.17:963][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.05-14.08.17:971][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.05-14.08.18:016][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.11.05-14.08.25:824][  0]SourceControl: Source control is disabled
+[2020.11.05-14.08.25:882][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/IML/MyProject_01/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.11.05-14.08.25:917][  0]LightingResults: New page: Lighting Build
+[2020.11.05-14.08.26:676][  0]MapCheck: New page: Map Check
+[2020.11.05-14.08.26:676][  0]LightingResults: New page: Lighting Build
+[2020.11.05-14.08.32:526][  0]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.08.32:747][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.05-14.08.33:060][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.05-14.08.33:348][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 277.597ms to complete.
+[2020.11.05-14.08.33:348][  0]LogFileHelpers: Loading map 'MenuMap' took 7.485
+[2020.11.05-14.08.41:732][  0]LogCollectionManager: Loaded 0 collections in 0.001742 seconds
+[2020.11.05-14.08.42:084][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Saved/Collections/' took 0.01s
+[2020.11.05-14.08.42:084][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Developers/farha/Collections/' took 0.01s
+[2020.11.05-14.08.42:084][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Collections/' took 0.01s
+[2020.11.05-14.08.42:084][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.11.05-14.08.42:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2366 classes and 524 folders.
+[2020.11.05-14.08.42:428][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.05-14.08.43:817][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.05-14.08.44:546][  0]LogSlate: Took 0.034330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.05-14.08.44:915][  0]LogSlate: Took 0.016473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.05-14.08.46:744][  0]LogRenderer: Reallocating scene render targets to support 1048x656 Format 9 NumSamples 1 (Frame:1).
+[2020.11.05-14.08.52:287][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.11.05-14.08.52:287][  0]LogLoad: (Engine Initialization) Total time: 154.45 seconds
+[2020.11.05-14.08.52:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.05-14.08.52:304][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.11.05-14.08.54:054][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.11.05-14.08.56:631][  2]LogSlate: Took 0.009018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.05-14.08.57:948][  6]LogAssetRegistry: Asset discovery search completed in 101.4236 seconds
+[2020.11.05-14.08.58:024][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.11.05-14.08.58:026][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012750 seconds (updated 0 objects)
+[2020.11.05-14.09.45:354][594]LogSlate: Took 0.031830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.05-14.09.52:667][275]Cmd: t.MaxFPS 30
+[2020.11.05-14.09.53:172][275]t.MaxFPS = "30"
+[2020.11.05-14.12.18:074][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-14.12.19:277][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-14.12.19:315][975]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.12.19:324][975]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.12.19:372][975]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.12.19:372][975]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.12.19:372][975]LogOnline: Warning: STEAM: Steam API disabled!
+[2020.11.05-14.12.19:372][975]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.05-14.12.19:480][975]PIE: New page: PIE session: MenuMap (Nov 6, 2020, 2:12:19 AM)
+[2020.11.05-14.12.19:541][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.11.05-14.12.19:571][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030460s)
+[2020.11.05-14.12.19:572][975]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.12.19:584][975]LogPlayLevel: PIE: World Init took: (0.012384s)
+[2020.11.05-14.12.19:595][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.054156s)
+[2020.11.05-14.12.19:728][975]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2020.11.05-14.12.19:728][975]LogSynthBenchmark: Display: ===============
+[2020.11.05-14.12.19:728][975]LogSynthBenchmark: Display: Main Processor:
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:          ... 0.030047 s/Run 'RayIntersect'
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:          ... 0.031359 s/Run 'Fractal'
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display: 
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   CPU Perf Index 0: 85.2 (weight 1.00)
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   CPU Perf Index 1: 91.2 (weight 1.50)
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:  
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display: Graphics:
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.11.05-14.12.20:342][975]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:   GPU first test: 0.68s
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.209 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.225 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.180 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 1.215 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.024 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.106 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.931 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.209 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.225 s/GigaPix, Confidence=89% 'TexHeavy'
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 0.180 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2020.11.05-14.12.21:248][975]LogSynthBenchmark: Display:          ... 1.215 s/GigaPix, Confidence=89% 'FillOnly'
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:          ... 0.024 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:          ... 0.106 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:          ... 0.931 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display: 
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.5 (weight 1.00)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.0 (weight 0.10)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 2: 4.7 (weight 0.10)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 3: 4.8 (weight 3.00)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 4: 2.2 (weight 1.00)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 5: 6.9 (weight 0.00)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPU Perf Index 6: 52.7 (weight 0.00)
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   CPUIndex: 88.8
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:   GPUIndex: 4.2
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display: 
+[2020.11.05-14.12.21:249][975]LogSynthBenchmark: Display:          ... Total Time: 1.522169 sec
+[2020.11.05-14.12.21:352][975]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.12.21:373][975]LogInit: FAudioDevice initialized.
+[2020.11.05-14.12.21:502][975]LogLoad: Game class is 'MenuGM_C'
+[2020.11.05-14.12.21:751][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 30) at 2020.11.05-20.12.21
+[2020.11.05-14.12.21:796][975]LogWorld: Bringing up level for play took: 0.046724
+[2020.11.05-14.12.22:323][975]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0071 seconds. Added 11 classes and 0 folders.
+[2020.11.05-14.12.22:544][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 3.417
+[2020.11.05-14.12.24:101][992]LogInit: WinSock: I am ISHRAQ-PC (192.168.10.70:0)
+[2020.11.05-14.12.25:177][ 24]LogNetVersion: MyProject_01 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2536178700)
+[2020.11.05-14.12.25:262][ 24]LogNet: Browse: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.12.25:270][ 24]LogLoad: LoadMap: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.12.47:865][ 24]LogAIModule: Creating AISystem for world GameTestMap
+[2020.11.05-14.12.47:874][ 24]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.11.05-14.12.47:894][ 24]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.12.47:902][ 24]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.11.05-14.12.47:902][ 24]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.12.47:918][ 24]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.11.05-14.12.47:934][ 24]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.05-14.12.47:970][ 24]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2020.11.05-14.12.48:524][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameTestMap.GameTestMap up for play (max tick rate 30) at 2020.11.05-20.12.48
+[2020.11.05-14.12.48:525][ 24]LogWorld: Bringing up level for play took: 0.553511
+[2020.11.05-14.12.48:655][ 24]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.12.48:668][ 24]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.12.48:668][ 24]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.12.49:054][ 24]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.12.49:073][ 24]LogLoad: Took 23.803097 seconds to LoadMap(/Game/Maps/GameTestMap)
+[2020.11.05-14.12.49:588][ 25]Cmd: LevelEditor.ToggleImmersive
+[2020.11.05-14.12.51:096][ 25]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 24.38, Realtime: 2.01. IpNetDriver_0
+[2020.11.05-14.12.51:373][ 26]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2020.11.05-14.13.22:288][765]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 1 in '/Game/Blueprints/CustomBlueprints/Arena_BP.Arena_BP_C:ExecuteUbergraph_Arena_BP'!
+[2020.11.05-14.14.11:916][ 90]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.14.11:916][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.14.11:919][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.14.11:920][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.14.11:920][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-14.14.12:047][ 90]LogExit: GameNetDriver None shut down
+[2020.11.05-14.14.12:081][ 90]LogRenderer: Reallocating scene render targets to support 1368x740 Format 9 NumSamples 1 (Frame:821).
+[2020.11.05-14.14.12:146][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.11.05-14.14.12:146][ 91]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.14.18:602][227]LogSlate: Took 0.013607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.05-14.14.19:052][227]LogSlate: Took 0.032639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.05-14.14.30:635][495]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.05-14.14.33:650][495]LogSlate: Took 0.029665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.05-14.14.37:599][495]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2020.11.05-14.14.42:097][495]LogSlate: Took 0.033095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.05-14.20.12:360][808]LogSlate: Took 0.591790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.05-14.20.59:087][917]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.11.05-14.21.00:517][917]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05B7
+[2020.11.05-14.21.00:519][917]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05EA
+[2020.11.05-14.21.00:519][917]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0615
+[2020.11.05-14.21.00:519][917]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0054
+[2020.11.05-14.21.01:213][917]LogActor: Warning: Pistol_BP_C /Engine/Transient.World_3:PersistentLevel.Hangun_GEN_VARIABLE_Pistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.11.05-14.21.02:770][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/PlayerCharacterBP" FILE="../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset" SILENT=true
+[2020.11.05-14.21.03:832][938]LogSavePackage: Save=865.14ms
+[2020.11.05-14.21.03:832][938]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/PlayerCharacterBP7934BD51467A7D45EF2DF48267DD5E66.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset'
+[2020.11.05-14.21.03:842][938]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset
+[2020.11.05-14.21.45:824][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/PlayerCharacterBP" FILE="../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset" SILENT=true
+[2020.11.05-14.21.46:591][965]LogSavePackage: Save=762.98ms
+[2020.11.05-14.21.46:591][965]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/PlayerCharacterBP96B9BBAF43D84775C1DB499918DF1461.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset'
+[2020.11.05-14.21.46:593][965]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset
+[2020.11.05-14.21.49:075][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-14.21.49:574][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-14.21.49:575][ 37]PIE: New page: PIE session: MenuMap (Nov 6, 2020, 2:21:49 AM)
+[2020.11.05-14.21.49:596][ 37]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.11.05-14.21.49:597][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000992s)
+[2020.11.05-14.21.49:598][ 37]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.21.49:598][ 37]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2020.11.05-14.21.49:599][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002592s)
+[2020.11.05-14.21.49:633][ 37]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2020.11.05-14.21.49:633][ 37]LogSynthBenchmark: Display: ===============
+[2020.11.05-14.21.49:633][ 37]LogSynthBenchmark: Display: Main Processor:
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:          ... 0.024706 s/Run 'RayIntersect'
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:          ... 0.027795 s/Run 'Fractal'
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display: 
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   CPU Perf Index 0: 103.7 (weight 1.00)
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   CPU Perf Index 1: 102.9 (weight 1.50)
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:  
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display: Graphics:
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.11.05-14.21.50:159][ 37]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:   GPU first test: 0.53s
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.213 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.233 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.194 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 1.352 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.038 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.934 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.213 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.233 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.194 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 1.352 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.038 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=89% 'VertThroughPut1'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:          ... 0.934 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display: 
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.6 (weight 1.00)
+[2020.11.05-14.21.50:757][ 37]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.1 (weight 0.10)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPU Perf Index 2: 5.0 (weight 0.10)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPU Perf Index 3: 5.3 (weight 3.00)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPU Perf Index 4: 3.5 (weight 1.00)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPU Perf Index 5: 7.4 (weight 0.00)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPU Perf Index 6: 52.8 (weight 0.00)
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   CPUIndex: 103.2
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:   GPUIndex: 4.8
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display: 
+[2020.11.05-14.21.50:758][ 37]LogSynthBenchmark: Display:          ... Total Time: 1.124972 sec
+[2020.11.05-14.21.50:796][ 37]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.21.50:814][ 37]LogInit: FAudioDevice initialized.
+[2020.11.05-14.21.50:849][ 37]LogLoad: Game class is 'MenuGM_C'
+[2020.11.05-14.21.50:850][ 37]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 30) at 2020.11.05-20.21.50
+[2020.11.05-14.21.50:851][ 37]LogWorld: Bringing up level for play took: 0.000599
+[2020.11.05-14.21.50:867][ 37]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 1.74
+[2020.11.05-14.21.53:149][105]LogNet: Browse: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.21.53:149][105]LogLoad: LoadMap: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.22.02:674][105]LogAIModule: Creating AISystem for world GameTestMap
+[2020.11.05-14.22.02:675][105]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.11.05-14.22.02:675][105]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.02:675][105]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.11.05-14.22.02:675][105]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.02:676][105]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.11.05-14.22.02:676][105]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.05-14.22.02:677][105]LogNet: GameNetDriver IpNetDriver_1 IpNetDriver listening on port 7777
+[2020.11.05-14.22.02:705][105]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameTestMap.GameTestMap up for play (max tick rate 30) at 2020.11.05-20.22.02
+[2020.11.05-14.22.02:706][105]LogWorld: Bringing up level for play took: 0.028229
+[2020.11.05-14.22.02:707][105]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.02:707][105]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.02:707][105]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.02:713][105]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.02:713][105]LogLoad: Took 9.564756 seconds to LoadMap(/Game/Maps/GameTestMap)
+[2020.11.05-14.22.03:026][106]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 9.59, Realtime: 0.31. IpNetDriver_1
+[2020.11.05-14.22.03:041][107]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2020.11.05-14.22.13:007][276]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.22.13:007][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.22.13:007][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.22.13:007][276]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.22.13:007][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-14.22.13:057][276]LogExit: GameNetDriver None shut down
+[2020.11.05-14.22.13:070][277]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.11.05-14.22.13:070][277]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.22.28:993][678]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.11.05-14.22.29:653][678]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05B7
+[2020.11.05-14.22.29:653][678]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05EA
+[2020.11.05-14.22.29:653][678]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0615
+[2020.11.05-14.22.29:653][678]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_2
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0054
+[2020.11.05-14.22.29:964][678]LogActor: Warning: Pistol_BP_C /Engine/Transient.World_3:PersistentLevel.Hangun_GEN_VARIABLE_Pistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.11.05-14.22.30:755][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/PlayerCharacterBP" FILE="../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset" SILENT=true
+[2020.11.05-14.22.31:467][688]LogSavePackage: Save=708.56ms
+[2020.11.05-14.22.31:467][688]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/PlayerCharacterBPBCE3A3944374FF45621DDC9230C127B7.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset'
+[2020.11.05-14.22.31:470][688]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset
+[2020.11.05-14.22.32:555][717]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-14.22.32:603][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-14.22.32:604][717]PIE: New page: PIE session: MenuMap (Nov 6, 2020, 2:22:32 AM)
+[2020.11.05-14.22.32:617][717]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.11.05-14.22.32:618][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
+[2020.11.05-14.22.32:620][717]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.22.32:620][717]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2020.11.05-14.22.32:620][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.003547s)
+[2020.11.05-14.22.32:658][717]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2020.11.05-14.22.32:658][717]LogSynthBenchmark: Display: ===============
+[2020.11.05-14.22.32:658][717]LogSynthBenchmark: Display: Main Processor:
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:          ... 0.024739 s/Run 'RayIntersect'
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:          ... 0.027608 s/Run 'Fractal'
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   CPU Perf Index 0: 103.5 (weight 1.00)
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   CPU Perf Index 1: 103.6 (weight 1.50)
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:  
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display: Graphics:
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.11.05-14.22.33:181][717]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.11.05-14.22.33:182][717]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU first test: 0.53s
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.210 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.230 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.194 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 1.337 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.039 s/GigaPix, Confidence=81% 'Bandwidth' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.939 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.210 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.230 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.194 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 1.337 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.039 s/GigaPix, Confidence=81% 'Bandwidth'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.113 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:          ... 0.939 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.6 (weight 1.00)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.1 (weight 0.10)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 2: 5.0 (weight 0.10)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 3: 5.3 (weight 3.00)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 4: 3.6 (weight 1.00)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 5: 7.4 (weight 0.00)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPU Perf Index 6: 53.2 (weight 0.00)
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   CPUIndex: 103.6
+[2020.11.05-14.22.33:786][717]LogSynthBenchmark: Display:   GPUIndex: 4.8
+[2020.11.05-14.22.33:787][717]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.33:787][717]LogSynthBenchmark: Display:          ... Total Time: 1.128752 sec
+[2020.11.05-14.22.33:799][717]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.22.33:819][717]LogInit: FAudioDevice initialized.
+[2020.11.05-14.22.33:854][717]LogLoad: Game class is 'MenuGM_C'
+[2020.11.05-14.22.33:855][717]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 30) at 2020.11.05-20.22.33
+[2020.11.05-14.22.33:856][717]LogWorld: Bringing up level for play took: 0.000721
+[2020.11.05-14.22.33:871][717]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0.743
+[2020.11.05-14.22.35:547][767]LogNet: Browse: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.22.35:547][767]LogLoad: LoadMap: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.22.36:589][767]LogAIModule: Creating AISystem for world GameTestMap
+[2020.11.05-14.22.36:589][767]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.11.05-14.22.36:589][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.36:590][767]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.11.05-14.22.36:590][767]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.36:590][767]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.11.05-14.22.36:590][767]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.05-14.22.36:590][767]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2020.11.05-14.22.36:610][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameTestMap.GameTestMap up for play (max tick rate 30) at 2020.11.05-20.22.36
+[2020.11.05-14.22.36:611][767]LogWorld: Bringing up level for play took: 0.019879
+[2020.11.05-14.22.36:612][767]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.36:612][767]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.36:612][767]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.36:617][767]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.36:617][767]LogLoad: Took 1.069281 seconds to LoadMap(/Game/Maps/GameTestMap)
+[2020.11.05-14.22.39:772][856]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2020.11.05-14.22.40:313][870]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.22.40:313][870]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.22.40:314][870]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.22.40:314][870]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.22.40:314][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-14.22.40:353][870]LogExit: GameNetDriver None shut down
+[2020.11.05-14.22.40:398][871]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.11.05-14.22.40:398][871]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.22.49:158][104]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.11.05-14.22.49:835][104]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05B7
+[2020.11.05-14.22.49:835][104]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:05EA
+[2020.11.05-14.22.49:835][104]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0615
+[2020.11.05-14.22.49:835][104]LogScript: Warning: Accessed None trying to read property Player Ref
+	Player_AnimBP_C /Engine/Transient.World_3:PersistentLevel.PlayerCharacterBP_C_1.CharacterMesh0.Player_AnimBP_C_3
+	Function /Game/Blueprints/PlayerBlueprint/Player_AnimBP.Player_AnimBP_C:ExecuteUbergraph_Player_AnimBP:0054
+[2020.11.05-14.22.50:143][104]LogActor: Warning: Pistol_BP_C /Engine/Transient.World_3:PersistentLevel.Hangun_GEN_VARIABLE_Pistol_BP_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.11.05-14.22.51:084][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerBlueprint/PlayerCharacterBP" FILE="../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset" SILENT=true
+[2020.11.05-14.22.51:802][106]LogSavePackage: Save=715.28ms
+[2020.11.05-14.22.51:802][106]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/PlayerCharacterBP536ECC16484AB71056492B9A7A8AAE19.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset'
+[2020.11.05-14.22.51:805][106]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/Blueprints/PlayerBlueprint/PlayerCharacterBP.uasset
+[2020.11.05-14.22.52:820][137]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-14.22.52:855][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-14.22.52:856][137]PIE: New page: PIE session: MenuMap (Nov 6, 2020, 2:22:52 AM)
+[2020.11.05-14.22.52:865][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.11.05-14.22.52:866][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000806s)
+[2020.11.05-14.22.52:867][137]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.22.52:867][137]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2020.11.05-14.22.52:867][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002077s)
+[2020.11.05-14.22.52:903][137]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2020.11.05-14.22.52:903][137]LogSynthBenchmark: Display: ===============
+[2020.11.05-14.22.52:903][137]LogSynthBenchmark: Display: Main Processor:
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:          ... 0.024471 s/Run 'RayIntersect'
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:          ... 0.027364 s/Run 'Fractal'
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   CPU Perf Index 0: 104.7 (weight 1.00)
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   CPU Perf Index 1: 104.5 (weight 1.50)
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:  
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display: Graphics:
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.11.05-14.22.53:422][137]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:   GPU first test: 0.53s
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.212 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.226 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.191 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 1.299 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.038 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.114 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:          ... 0.929 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.11.05-14.22.54:010][137]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.212 s/GigaPix, Confidence=89% 'ALUHeavyNoise'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.226 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.191 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 1.299 s/GigaPix, Confidence=100% 'FillOnly'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.038 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.114 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... 0.929 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.6 (weight 1.00)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 1: 3.0 (weight 0.10)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 2: 5.0 (weight 0.10)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 3: 5.1 (weight 3.00)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 4: 3.5 (weight 1.00)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 5: 7.4 (weight 0.00)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPU Perf Index 6: 52.5 (weight 0.00)
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   CPUIndex: 104.6
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:   GPUIndex: 4.7
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display: 
+[2020.11.05-14.22.54:011][137]LogSynthBenchmark: Display:          ... Total Time: 1.107980 sec
+[2020.11.05-14.22.54:022][137]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.22.54:037][137]LogInit: FAudioDevice initialized.
+[2020.11.05-14.22.54:071][137]LogLoad: Game class is 'MenuGM_C'
+[2020.11.05-14.22.54:071][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 30) at 2020.11.05-20.22.54
+[2020.11.05-14.22.54:072][137]LogWorld: Bringing up level for play took: 0.000564
+[2020.11.05-14.22.54:100][137]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 0.973
+[2020.11.05-14.22.55:724][185]LogNet: Browse: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.22.55:724][185]LogLoad: LoadMap: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.22.57:069][185]LogAIModule: Creating AISystem for world GameTestMap
+[2020.11.05-14.22.57:069][185]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.11.05-14.22.57:069][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.57:069][185]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2020.11.05-14.22.57:070][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.22.57:070][185]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.11.05-14.22.57:070][185]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.05-14.22.57:070][185]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 7777
+[2020.11.05-14.22.57:090][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameTestMap.GameTestMap up for play (max tick rate 30) at 2020.11.05-20.22.57
+[2020.11.05-14.22.57:091][185]LogWorld: Bringing up level for play took: 0.020102
+[2020.11.05-14.22.57:092][185]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.57:092][185]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.22.57:092][185]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.57:097][185]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.22.57:097][185]LogLoad: Took 1.372167 seconds to LoadMap(/Game/Maps/GameTestMap)
+[2020.11.05-14.22.59:769][260]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2020.11.05-14.23.26:732][ 68]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 1 in '/Game/Blueprints/CustomBlueprints/Arena_BP.Arena_BP_C:ExecuteUbergraph_Arena_BP'!
+[2020.11.05-14.23.57:727][989]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.23.57:727][989]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.23.57:728][989]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.23.57:728][989]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.23.57:728][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-14.23.57:766][989]LogExit: GameNetDriver None shut down
+[2020.11.05-14.23.57:812][990]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.11.05-14.23.57:812][990]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.24.13:839][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-14.24.13:924][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-14.24.13:924][ 94]PIE: New page: PIE session: MenuMap (Nov 6, 2020, 2:24:13 AM)
+[2020.11.05-14.24.13:938][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MenuMap
+[2020.11.05-14.24.13:940][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2020.11.05-14.24.13:940][ 94]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.05-14.24.13:941][ 94]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2020.11.05-14.24.13:941][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MenuMap.MenuMap to /Game/Maps/UEDPIE_0_MenuMap.MenuMap (0.002774s)
+[2020.11.05-14.24.13:978][ 94]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=10.00
+[2020.11.05-14.24.13:978][ 94]LogSynthBenchmark: Display: ===============
+[2020.11.05-14.24.13:978][ 94]LogSynthBenchmark: Display: Main Processor:
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:          ... 0.032261 s/Run 'RayIntersect'
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:          ... 0.032654 s/Run 'Fractal'
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display: 
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 4
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   NumberOfCores (physical): 2
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   CPU Perf Index 0: 79.4 (weight 1.00)
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   CPU Perf Index 1: 87.6 (weight 1.50)
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:  
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display: Graphics:
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 3000'
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   Device Id: 0x126
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   Device Revision: 0x9
+[2020.11.05-14.24.14:627][ 94]LogSynthBenchmark: Display:   GPU Memory: 32/0/1632 MB
+[2020.11.05-14.24.15:412][ 94]LogSynthBenchmark: Display:   GPU first test: 0.61s
+[2020.11.05-14.24.15:412][ 94]LogSynthBenchmark: Display:          ... 0.192 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2020.11.05-14.24.15:412][ 94]LogSynthBenchmark: Display:          ... 0.201 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.24.15:412][ 94]LogSynthBenchmark: Display:          ... 0.163 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2020.11.05-14.24.15:412][ 94]LogSynthBenchmark: Display:          ... 1.070 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2020.11.05-14.24.15:413][ 94]LogSynthBenchmark: Display:          ... 0.033 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2020.11.05-14.24.15:413][ 94]LogSynthBenchmark: Display:          ... 0.102 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2020.11.05-14.24.15:413][ 94]LogSynthBenchmark: Display:          ... 0.834 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2020.11.05-14.24.15:413][ 94]LogSynthBenchmark: Display:   GPU Final Results:
+[2020.11.05-14.24.15:413][ 94]LogSynthBenchmark: Display:          ... 0.192 s/GigaPix, Confidence=89% 'ALUHeavyNoise'
+[2020.11.05-14.24.15:414][ 94]LogSynthBenchmark: Display:          ... 0.201 s/GigaPix, Confidence=100% 'TexHeavy'
+[2020.11.05-14.24.15:414][ 94]LogSynthBenchmark: Display:          ... 0.163 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2020.11.05-14.24.15:414][ 94]LogSynthBenchmark: Display:          ... 1.070 s/GigaPix, Confidence=89% 'FillOnly'
+[2020.11.05-14.24.15:414][ 94]LogSynthBenchmark: Display:          ... 0.033 s/GigaPix, Confidence=100% 'Bandwidth'
+[2020.11.05-14.24.15:415][ 94]LogSynthBenchmark: Display:          ... 0.102 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:          ... 0.834 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display: 
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 0: 4.2 (weight 1.00)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 1: 2.7 (weight 0.10)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 2: 4.2 (weight 0.10)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 3: 4.2 (weight 3.00)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 4: 3.0 (weight 1.00)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 5: 6.6 (weight 0.00)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPU Perf Index 6: 47.2 (weight 0.00)
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   CPUIndex: 84.3
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display:   GPUIndex: 3.9
+[2020.11.05-14.24.15:416][ 94]LogSynthBenchmark: Display: 
+[2020.11.05-14.24.15:417][ 94]LogSynthBenchmark: Display:          ... Total Time: 1.438481 sec
+[2020.11.05-14.24.15:439][ 94]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.05-14.24.15:465][ 94]LogInit: FAudioDevice initialized.
+[2020.11.05-14.24.15:601][ 94]LogLoad: Game class is 'MenuGM_C'
+[2020.11.05-14.24.15:602][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MenuMap.MenuMap up for play (max tick rate 30) at 2020.11.05-20.24.15
+[2020.11.05-14.24.15:603][ 94]LogWorld: Bringing up level for play took: 0.001402
+[2020.11.05-14.24.15:661][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MenuMap 2.533
+[2020.11.05-14.24.17:775][137]LogNet: Browse: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.24.17:787][137]LogLoad: LoadMap: /Game/Maps/GameTestMap?listen
+[2020.11.05-14.24.19:372][137]LogAIModule: Creating AISystem for world GameTestMap
+[2020.11.05-14.24.19:372][137]LogLoad: Game class is 'GamePlay_GM_C'
+[2020.11.05-14.24.19:373][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.24.19:373][137]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2020.11.05-14.24.19:373][137]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.05-14.24.19:373][137]LogInit: WinSock: Socket queue 131072 / 131072
+[2020.11.05-14.24.19:374][137]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.05-14.24.19:374][137]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2020.11.05-14.24.19:408][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameTestMap.GameTestMap up for play (max tick rate 30) at 2020.11.05-20.24.19
+[2020.11.05-14.24.19:409][137]LogWorld: Bringing up level for play took: 0.034402
+[2020.11.05-14.24.19:410][137]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.24.19:410][137]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.05-14.24.19:410][137]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.24.19:424][137]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.05-14.24.19:424][137]LogLoad: Took 1.636992 seconds to LoadMap(/Game/Maps/GameTestMap)
+[2020.11.05-14.24.21:631][177]LogScriptCore: Warning: Script Msg: FindSessionsCallback - Invalid player state
+[2020.11.05-14.24.49:702][787]LogScriptCore: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetAllActorsOfClass_OutActors3' of length 1 in '/Game/Blueprints/CustomBlueprints/Arena_BP.Arena_BP_C:ExecuteUbergraph_Arena_BP'!
+[2020.11.05-14.25.16:543][361]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.25.16:543][361]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.25.16:544][361]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.25.16:544][361]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.25.16:545][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-14.25.16:631][361]LogExit: GameNetDriver None shut down
+[2020.11.05-14.25.16:691][362]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.11.05-14.25.16:691][362]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.25.57:585][593]Cmd: QUIT_EDITOR
+[2020.11.05-14.25.58:484][593]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.05-14.25.58:827][593]LogExit: Preparing to exit.
+[2020.11.05-14.26.00:578][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/' was aborted.
+[2020.11.05-14.26.01:853][593]LogExit: Editor shut down
+[2020.11.05-14.26.02:100][593]LogExit: Transaction tracking system shut down
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/IML/MyProject_01/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.11.05-14.26.03:536][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.11.05-14.26.07:672][593]LogExit: Object subsystem successfully closed.
+[2020.11.05-14.26.08:216][593]LogD3D11RHI: Shutdown
+[2020.11.05-14.26.08:216][593]LogD3D11RHI: CleanupD3DDevice
+[2020.11.05-14.26.08:349][593]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.05-14.26.09:959][593]LogModuleManager: Shutting down and abandoning module BlueprintGraph (560)
+[2020.11.05-14.26.09:959][593]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2020.11.05-14.26.09:959][593]LogModuleManager: Shutting down and abandoning module Voice (554)
+[2020.11.05-14.26.09:970][593]LogModuleManager: Shutting down and abandoning module SynthBenchmark (552)
+[2020.11.05-14.26.09:970][593]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2020.11.05-14.26.09:970][593]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2020.11.05-14.26.10:056][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.11.05-14.26.10:371][593]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2020.11.05-14.26.10:371][593]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2020.11.05-14.26.10:371][593]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2020.11.05-14.26.10:384][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Collections/' was aborted.
+[2020.11.05-14.26.10:384][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Developers/farha/Collections/' was aborted.
+[2020.11.05-14.26.10:384][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Saved/Collections/' was aborted.
+[2020.11.05-14.26.10:384][593]LogModuleManager: Shutting down and abandoning module SceneOutliner (540)
+[2020.11.05-14.26.10:395][593]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2020.11.05-14.26.10:425][593]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2020.11.05-14.26.10:448][593]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2020.11.05-14.26.10:502][593]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2020.11.05-14.26.10:510][593]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2020.11.05-14.26.10:511][593]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2020.11.05-14.26.10:511][593]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2020.11.05-14.26.10:525][593]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2020.11.05-14.26.10:531][593]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2020.11.05-14.26.10:545][593]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2020.11.05-14.26.10:601][593]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2020.11.05-14.26.10:613][593]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2020.11.05-14.26.10:623][593]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2020.11.05-14.26.10:646][593]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2020.11.05-14.26.10:653][593]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2020.11.05-14.26.10:653][593]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2020.11.05-14.26.10:660][593]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2020.11.05-14.26.10:660][593]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2020.11.05-14.26.10:673][593]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2020.11.05-14.26.10:691][593]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2020.11.05-14.26.10:713][593]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2020.11.05-14.26.10:748][593]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2020.11.05-14.26.10:773][593]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2020.11.05-14.26.10:774][593]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2020.11.05-14.26.10:774][593]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2020.11.05-14.26.10:774][593]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2020.11.05-14.26.10:815][593]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2020.11.05-14.26.10:817][593]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2020.11.05-14.26.10:817][593]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2020.11.05-14.26.10:817][593]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2020.11.05-14.26.10:826][593]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2020.11.05-14.26.10:841][593]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2020.11.05-14.26.10:842][593]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2020.11.05-14.26.10:857][593]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2020.11.05-14.26.10:857][593]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2020.11.05-14.26.10:873][593]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2020.11.05-14.26.10:882][593]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2020.11.05-14.26.10:882][593]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2020.11.05-14.26.10:883][593]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2020.11.05-14.26.10:883][593]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2020.11.05-14.26.10:902][593]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2020.11.05-14.26.10:902][593]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2020.11.05-14.26.10:903][593]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2020.11.05-14.26.10:917][593]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2020.11.05-14.26.10:918][593]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2020.11.05-14.26.10:936][593]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2020.11.05-14.26.10:975][593]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2020.11.05-14.26.10:997][593]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2020.11.05-14.26.11:004][593]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2020.11.05-14.26.11:015][593]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2020.11.05-14.26.11:532][593]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2020.11.05-14.26.11:565][593]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2020.11.05-14.26.11:588][593]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2020.11.05-14.26.11:642][593]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2020.11.05-14.26.11:642][593]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2020.11.05-14.26.11:642][593]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2020.11.05-14.26.11:695][593]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2020.11.05-14.26.11:755][593]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2020.11.05-14.26.11:755][593]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2020.11.05-14.26.11:755][593]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2020.11.05-14.26.11:811][593]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2020.11.05-14.26.11:818][593]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2020.11.05-14.26.11:818][593]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2020.11.05-14.26.11:832][593]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2020.11.05-14.26.11:863][593]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2020.11.05-14.26.11:863][593]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2020.11.05-14.26.11:868][593]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2020.11.05-14.26.11:868][593]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2020.11.05-14.26.11:868][593]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2020.11.05-14.26.11:868][593]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2020.11.05-14.26.11:869][593]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2020.11.05-14.26.11:882][593]LogModuleManager: Shutting down and abandoning module DesktopPlatform (352)
+[2020.11.05-14.26.11:882][593]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2020.11.05-14.26.11:941][593]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2020.11.05-14.26.11:950][593]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2020.11.05-14.26.11:950][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2020.11.05-14.26.11:951][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2020.11.05-14.26.11:956][593]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2020.11.05-14.26.11:968][593]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2020.11.05-14.26.11:968][593]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2020.11.05-14.26.11:968][593]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2020.11.05-14.26.11:974][593]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2020.11.05-14.26.11:974][593]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2020.11.05-14.26.11:974][593]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2020.11.05-14.26.11:974][593]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2020.11.05-14.26.12:022][593]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2020.11.05-14.26.12:022][593]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2020.11.05-14.26.12:022][593]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2020.11.05-14.26.12:022][593]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2020.11.05-14.26.12:033][593]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2020.11.05-14.26.12:033][593]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2020.11.05-14.26.12:034][593]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2020.11.05-14.26.12:034][593]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2020.11.05-14.26.12:034][593]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2020.11.05-14.26.12:079][593]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2020.11.05-14.26.12:088][593]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2020.11.05-14.26.12:088][593]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2020.11.05-14.26.12:097][593]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2020.11.05-14.26.12:097][593]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2020.11.05-14.26.12:109][593]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2020.11.05-14.26.12:136][593]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2020.11.05-14.26.12:155][593]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2020.11.05-14.26.12:168][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2020.11.05-14.26.12:168][593]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2020.11.05-14.26.12:168][593]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2020.11.05-14.26.12:168][593]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2020.11.05-14.26.12:219][593]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2020.11.05-14.26.12:232][593]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2020.11.05-14.26.12:247][593]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2020.11.05-14.26.12:262][593]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2020.11.05-14.26.12:263][593]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2020.11.05-14.26.12:276][593]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Binaries/Win64' was aborted.
+[2020.11.05-14.26.12:286][593]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2020.11.05-14.26.12:293][593]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2020.11.05-14.26.12:293][593]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2020.11.05-14.26.12:293][593]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2020.11.05-14.26.12:304][593]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2020.11.05-14.26.12:304][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2020.11.05-14.26.12:304][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2020.11.05-14.26.12:321][593]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2020.11.05-14.26.12:437][593]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2020.11.05-14.26.12:550][593]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2020.11.05-14.26.12:570][593]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2020.11.05-14.26.12:580][593]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2020.11.05-14.26.12:580][593]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2020.11.05-14.26.12:594][593]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2020.11.05-14.26.12:608][593]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.11.05-14.26.12:715][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2020.11.05-14.26.12:715][593]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2020.11.05-14.26.12:715][593]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2020.11.05-14.26.12:728][593]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2020.11.05-14.26.12:758][593]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2020.11.05-14.26.12:758][593]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2020.11.05-14.26.12:758][593]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2020.11.05-14.26.12:773][593]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2020.11.05-14.26.12:788][593]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2020.11.05-14.26.12:788][593]LogModuleManager: Shutting down and abandoning module Media (225)
+[2020.11.05-14.26.12:805][593]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.11.05-14.26.12:806][593]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.11.05-14.26.12:806][593]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.11.05-14.26.12:826][593]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.11.05-14.26.12:839][593]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.11.05-14.26.12:839][593]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.11.05-14.26.12:878][593]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.11.05-14.26.12:887][593]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.11.05-14.26.12:910][593]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.11.05-14.26.12:910][593]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.11.05-14.26.12:910][593]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.11.05-14.26.12:951][593]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.11.05-14.26.13:030][593]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.11.05-14.26.13:030][593]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.11.05-14.26.13:069][593]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.11.05-14.26.13:069][593]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.11.05-14.26.13:073][593]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.11.05-14.26.13:073][593]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.11.05-14.26.13:073][593]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.11.05-14.26.13:073][593]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.11.05-14.26.13:073][593]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.11.05-14.26.13:081][593]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.11.05-14.26.13:081][593]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2020.11.05-14.26.13:092][593]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2020.11.05-14.26.13:153][593]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2020.11.05-14.26.13:153][593]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2020.11.05-14.26.13:176][593]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2020.11.05-14.26.13:188][593]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2020.11.05-14.26.13:188][593]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2020.11.05-14.26.13:195][593]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2020.11.05-14.26.13:197][593]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2020.11.05-14.26.13:205][593]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2020.11.05-14.26.13:212][593]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.11.05-14.26.13:276][593]LogDerivedDataCache: Shutdown
+[2020.11.05-14.26.13:276][593]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2020.11.05-14.26.13:287][593]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2020.11.05-14.26.13:301][593]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2020.11.05-14.26.13:315][593]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2020.11.05-14.26.13:327][593]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2020.11.05-14.26.13:334][593]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2020.11.05-14.26.13:346][593]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2020.11.05-14.26.13:346][593]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2020.11.05-14.26.13:347][593]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2020.11.05-14.26.13:353][593]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2020.11.05-14.26.13:363][593]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2020.11.05-14.26.13:363][593]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2020.11.05-14.26.13:364][593]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2020.11.05-14.26.13:364][593]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2020.11.05-14.26.13:364][593]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2020.11.05-14.26.13:364][593]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2020.11.05-14.26.13:364][593]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2020.11.05-14.26.13:382][593]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2020.11.05-14.26.13:383][593]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.11.05-14.26.13:383][593]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2020.11.05-14.26.13:383][593]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2020.11.05-14.26.13:383][593]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2020.11.05-14.26.13:394][593]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2020.11.05-14.26.13:394][593]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2020.11.05-14.26.13:402][593]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2020.11.05-14.26.13:403][593]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2020.11.05-14.26.13:403][593]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2020.11.05-14.26.13:403][593]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2020.11.05-14.26.13:403][593]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2020.11.05-14.26.13:403][593]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2020.11.05-14.26.13:405][593]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2020.11.05-14.26.13:414][593]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2020.11.05-14.26.13:414][593]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2020.11.05-14.26.13:414][593]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2020.11.05-14.26.13:428][593]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2020.11.05-14.26.13:428][593]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2020.11.05-14.26.13:428][593]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2020.11.05-14.26.13:428][593]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2020.11.05-14.26.13:429][593]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2020.11.05-14.26.13:429][593]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.05-14.26.13:429][593]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.05-14.26.13:470][593]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.05-14.26.13:470][593]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.05-14.26.13:470][593]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.11.05-14.26.13:498][593]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.11.05-14.26.13:498][593]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.05-14.26.13:515][593]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA918694B-4077-66F6-49A9-FDA97D86454B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.11.05-14.26.13:552][593]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.11.05-14.26.13:570][593]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.11.05-14.26.13:570][593]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.11.05-14.26.13:570][593]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.11.05-14.26.13:570][593]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.11.05-14.26.13:604][593]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.11.05-14.26.13:604][593]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.11.05-14.26.13:604][593]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.11.05-14.26.13:652][593]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.11.05-14.26.13:652][593]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.11.05-14.26.13:652][593]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.11.05-14.26.13:652][593]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.11.05-14.26.13:652][593]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.11.05-14.26.13:664][593]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.11.05-14.26.13:665][593]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.11.05-14.26.13:679][593]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.11.05-14.26.13:679][593]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.11.05-14.26.13:685][593]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.11.05-14.26.13:703][593]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.11.05-14.26.13:728][593]LogExit: Exiting.
+[2020.11.05-14.26.13:853][593]Log file closed, 11/05/20 20:26:13
