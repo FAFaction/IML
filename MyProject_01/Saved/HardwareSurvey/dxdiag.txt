@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/8/2020, 20:59:13
+      Time of this report: 11/8/2020, 21:25:17
              Machine name: ISHRAQ-PC
                Machine Id: {5A2029E8-5C23-4004-B4F9-B797C3488381}
          Operating System: Windows 10 Pro 64-bit (10.0, Build 19041) (19041.vb_release.191206-1406)
@@ -9,10 +9,10 @@ System Information
       System Manufacturer: Dell Inc.
              System Model: Latitude E6220
                      BIOS: Default System BIOS (type: BIOS)
-                Processor: n/a
+                Processor: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz (4 CPUs), ~2.5GHz
                    Memory: 4096MB RAM
       Available OS Memory: 3978MB RAM
-                Page File: 5562MB used, 3534MB available
+                Page File: 5568MB used, 3528MB available
               Windows Dir: C:\Windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
