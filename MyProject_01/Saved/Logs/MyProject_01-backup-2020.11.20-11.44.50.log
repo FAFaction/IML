@@ -1,0 +1,1357 @@
+﻿Log file open, 11/14/20 22:35:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject_01
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1036170262) SRandInit(1036170263).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.807855
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/GameDev/Unreal/Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.11.14-16.35.41:680][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.14-16.35.41:681][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.14-16.35.41:909][  0]LogInit: Computer: ISHRAQ-PC
+[2020.11.14-16.35.41:909][  0]LogInit: User: farha
+[2020.11.14-16.35.41:909][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.11.14-16.35.41:909][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.14-16.35.41:925][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2020.11.14-16.35.41:925][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.14-16.35.41:925][  0]LogMemory: Process Physical Memory: 274.52 MB used, 274.52 MB peak
+[2020.11.14-16.35.41:925][  0]LogMemory: Process Virtual Memory: 269.60 MB used, 269.60 MB peak
+[2020.11.14-16.35.41:925][  0]LogMemory: Physical Memory: 3220.45 MB used,  756.56 MB free, 3977.01 MB total
+[2020.11.14-16.35.41:925][  0]LogMemory: Virtual Memory: 4763.04 MB used,  756.56 MB free, 134217728.00 MB total
+[2020.11.14-16.35.44:316][  0]LogInit: Using OS detected language (en-US).
+[2020.11.14-16.35.44:316][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.14-16.35.44:700][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.14-16.35.45:938][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.14-16.35.56:958][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.14-16.35.56:980][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 3000' (Feature Level 10_0)
+[2020.11.14-16.35.56:980][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.11.14-16.35.57:009][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.14-16.35.57:009][  0]LogD3D11RHI:       0/0/1988 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.14-16.35.57:009][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.14-16.35.57:037][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.14-16.35.57:038][  0]LogD3D11RHI:     GPU DeviceId: 0x126 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.14-16.35.57:038][  0]LogWindows: EnumDisplayDevices:
+[2020.11.14-16.35.57:038][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2020.11.14-16.35.57:045][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2020.11.14-16.35.57:046][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.14-16.35.57:046][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 3000
+[2020.11.14-16.35.57:046][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.14-16.35.57:046][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.14-16.35.57:046][  0]LogRHI: Texture pool is 593 MB (70% of 848 MB)
+[2020.11.14-16.35.57:073][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.14-16.35.57:635][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 1)
+[2020.11.14-16.35.57:819][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../GITHUB/IML/MyProject_01/Intermediate/Shaders/WorkingDirectory/3656/).
+[2020.11.14-16.35.57:820][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/farha/AppData/Local/Temp/UnrealShaderWorkingDir/0EF6DED84F6DA6E454FB93A523492234/'.
+[2020.11.14-16.35.57:841][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.14-16.36.17:135][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.11.14-16.36.17:223][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.11.14-16.36.17:305][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.11.14-16.36.17:381][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.11.14-16.36.17:518][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.11.14-16.36.17:606][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.11.14-16.36.17:691][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.11.14-16.36.17:782][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.11.14-16.36.17:868][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.11.14-16.36.17:952][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.11.14-16.36.18:030][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.11.14-16.36.18:107][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.11.14-16.36.18:188][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.11.14-16.36.18:263][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.11.14-16.36.18:476][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.11.14-16.36.18:476][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.11.14-16.36.18:580][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.11.14-16.36.18:640][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.11.14-16.36.18:989][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.11.14-16.36.19:050][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.11.14-16.36.19:129][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.11.14-16.36.19:209][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.11.14-16.36.19:288][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.11.14-16.36.19:390][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.11.14-16.36.19:390][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.14-16.36.22:780][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: Loaded boot cache 1.21s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GITHUB/IML/MyProject_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GITHUB/IML/MyProject_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.14-16.36.24:004][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.14-16.36.24:256][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.14-16.36.24:290][  0]LogDerivedDataCache: Using Local data cache path C:/Users/farha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.14-16.36.24:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2020.11.14-16.36.24:534][  0]LogSlate: Using Freetype 2.6.0
+[2020.11.14-16.36.24:682][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.14-16.36.24:695][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.14-16.36.48:468][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.14-16.36.52:944][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.11.14-16.36.53:092][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.11.14-16.36.53:107][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.14-16.36.53:107][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.11.14-16.36.53:107][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.11.14-16.36.53:107][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.11.14-16.36.54:557][  0]LogNetVersion: MyProject_01 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 560086495)
+[2020.11.14-16.36.57:948][  0]LogAssetRegistry: FAssetRegistry took 0.0487 seconds to start up
+[2020.11.14-16.37.08:879][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.561974 seconds
+[2020.11.14-16.37.08:955][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2020.11.14-16.37.08:956][  0]LogUObjectAllocator: 7577632 out of 0 bytes used by permanent object pool.
+[2020.11.14-16.37.08:956][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.14-16.37.54:422][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.14-16.37.54:619][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.14-16.38.03:519][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.11.14-16.38.08:479][  0]SourceControl: Source control is disabled
+[2020.11.14-16.38.08:523][  0]SourceControl: Source control is disabled
+[2020.11.14-16.38.09:197][  0]SourceControl: Source control is disabled
+[2020.11.14-16.38.09:661][  0]SourceControl: Source control is disabled
+[2020.11.14-16.38.12:688][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.14-16.38.13:170][  0]LogOcInput: OculusInput pre-init called
+[2020.11.14-16.38.15:022][  0]LogEngine: Initializing Engine...
+[2020.11.14-16.38.15:143][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.14-16.38.17:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.14-16.38.17:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.002 s
+[2020.11.14-16.38.25:481][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.14-16.38.26:175][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.14-16.38.26:412][  0]LogInit: FAudioDevice initialized.
+[2020.11.14-16.38.28:460][  0]LogDerivedDataCache: Saved boot cache 1.96s 75MB C:/Users/farha/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2020.11.14-16.38.29:124][  0]LogInit: Texture streaming: Enabled
+[2020.11.14-16.38.31:513][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.14-16.38.37:383][  0]LogInit: Transaction tracking system initialized
+[2020.11.14-16.38.39:231][  0]BlueprintLog: New page: Editor Load
+[2020.11.14-16.38.48:558][  0]LocalizationService: Localization service is disabled
+[2020.11.14-16.39.04:710][  0]LogConsoleResponse: Display: 
+[2020.11.14-16.39.19:474][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.14-16.39.19:495][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.14-16.39.19:566][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.11.14-16.39.21:907][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/' took 1.64s
+[2020.11.14-16.39.31:092][  0]SourceControl: Source control is disabled
+[2020.11.14-16.39.31:324][  0]Cmd: MAP LOAD FILE="../../../../../GITHUB/IML/MyProject_01/Content/Maps/MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2020.11.14-16.39.31:520][  0]LightingResults: New page: Lighting Build
+[2020.11.14-16.39.32:486][  0]MapCheck: New page: Map Check
+[2020.11.14-16.39.32:486][  0]LightingResults: New page: Lighting Build
+[2020.11.14-16.39.40:105][  0]LogAIModule: Creating AISystem for world MenuMap
+[2020.11.14-16.39.40:452][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.14-16.39.40:899][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.14-16.39.41:215][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 289.866ms to complete.
+[2020.11.14-16.39.41:243][  0]LogFileHelpers: Loading map 'MenuMap' took 9.992
+[2020.11.14-16.39.57:189][  0]LogCollectionManager: Loaded 0 collections in 0.004234 seconds
+[2020.11.14-16.39.58:259][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Saved/Collections/' took 0.01s
+[2020.11.14-16.39.58:259][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Developers/farha/Collections/' took 0.01s
+[2020.11.14-16.39.58:259][  0]LogFileCache: Scanning file cache for directory 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Collections/' took 0.01s
+[2020.11.14-16.39.58:259][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.11.14-16.39.58:325][  0]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2389 classes and 530 folders.
+[2020.11.14-16.39.58:860][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.11.14-16.40.02:403][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.14-16.40.03:205][  0]LogSlate: Took 0.113045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.14-16.40.03:623][  0]LogSlate: Took 0.022468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.14-16.40.07:747][  0]LogRenderer: Reallocating scene render targets to support 1016x656 Format 9 NumSamples 1 (Frame:1).
+[2020.11.14-16.40.17:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.11.14-16.40.17:143][  0]LogLoad: (Engine Initialization) Total time: 311.04 seconds
+[2020.11.14-16.40.17:143][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.14-16.40.17:159][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.11.14-16.40.18:089][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.11.14-16.40.21:790][  8]LogAssetRegistry: Asset discovery search completed in 203.8663 seconds
+[2020.11.14-16.40.22:239][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.11.14-16.40.22:256][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.038851 seconds (updated 0 objects)
+[2020.11.14-16.43.37:116][590]LogSlate: Took 0.174304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.14-16.43.37:968][590]LogSlate: Took 0.021709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.14-16.43.43:770][992]LogSlate: Took 0.081721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.14-16.43.44:777][109]Cmd: t.MaxFPS 40
+[2020.11.14-16.43.45:034][109]t.MaxFPS = "40"
+[2020.11.14-16.44.34:798][708]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.14-16.44.34:954][708]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims.fbx)
+[2020.11.14-16.44.35:183][708]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.11.14-16.44.35:183][708]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2020.11.14-16.44.35:183][708]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.11.14-16.44.35:183][708]LogFbx: ItemName: Model, ItemCount : 7
+[2020.11.14-16.44.35:183][708]LogFbx: ItemName: Pose, ItemCount : 1
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: Deformer, ItemCount : 6
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: Material, ItemCount : 2
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: AnimationStack, ItemCount : 8
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: AnimationLayer, ItemCount : 8
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: AnimationCurveNode, ItemCount : 144
+[2020.11.14-16.44.35:184][708]LogFbx: ItemName: AnimationCurve, ItemCount : 432
+[2020.11.14-16.44.35:204][708]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims.fbx
+[2020.11.14-16.44.35:281][708]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-16.44.41:072][708]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims.fbx
+[2020.11.14-16.44.41:113][708]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-16.44.41:152][708]LogFbx: =================================================
+[2020.11.14-16.44.41:152][708]LogFbx: Dumping Node START [WPN_P350] 
+[2020.11.14-16.44.41:152][708]LogFbx: 	Total Deformer Count 901938864.
+[2020.11.14-16.44.41:152][708]LogFbx: 		[Node 1] Armature (Type Skin).
+[2020.11.14-16.44.41:152][708]LogFbx: =================================================
+[2020.11.14-16.44.41:152][708]LogFbx: 	Attribute (Untitled.001) Type (4).
+[2020.11.14-16.44.41:152][708]LogFbx: 		[Node Attribute Child 1] WPN_P350 (Type Mesh).
+[2020.11.14-16.44.41:152][708]LogFbx: Dumping Node END [WPN_P350]
+[2020.11.14-16.44.41:152][708]LogFbx: =================================================
+[2020.11.14-16.44.41:152][708]LogFbx: Dumping Node START [WPN_P350] 
+[2020.11.14-16.44.41:152][708]LogFbx: 	Total Deformer Count 901938976.
+[2020.11.14-16.44.41:152][708]LogFbx: 		[Node 1] Armature (Type Skin).
+[2020.11.14-16.44.41:152][708]LogFbx: =================================================
+[2020.11.14-16.44.41:152][708]LogFbx: 	Attribute (Untitled.001) Type (4).
+[2020.11.14-16.44.41:152][708]LogFbx: 		[Node Attribute Child 1] WPN_P350 (Type Mesh).
+[2020.11.14-16.44.41:152][708]LogFbx: Dumping Node END [WPN_P350]
+[2020.11.14-16.44.41:158][708]LogFbx: Valid bind pose for Pose (Untitled.001) - WPN_P350
+[2020.11.14-16.44.41:296][708]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 3
+[2020.11.14-16.44.41:787][708]LogSkeletalMesh: Section 0: 7561 vertices, 4 active bones
+[2020.11.14-16.44.41:787][708]LogSkeletalMesh: Section 1: 1410 vertices, 1 active bones
+[2020.11.14-16.44.41:846][708]LogSkeletalMesh: Section 0: Material=0, 7968 triangles
+[2020.11.14-16.44.41:846][708]LogSkeletalMesh: Section 1: Material=1, 1998 triangles
+[2020.11.14-16.44.41:956][708]LogSlate: Took 0.011757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.14-16.44.41:965][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Skeleton'
+[2020.11.14-16.44.41:977][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Skeleton'
+[2020.11.14-16.44.41:987][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_PhysicsAsset'
+[2020.11.14-16.44.41:987][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_PhysicsAsset'
+[2020.11.14-16.44.42:985][708]LogFbx: =================================================
+[2020.11.14-16.44.42:985][708]LogFbx: Dumping Node START [WPN_P350] 
+[2020.11.14-16.44.42:985][708]LogFbx: 	Total Deformer Count 901937800.
+[2020.11.14-16.44.42:985][708]LogFbx: 		[Node 1] Armature (Type Skin).
+[2020.11.14-16.44.42:985][708]LogFbx: =================================================
+[2020.11.14-16.44.42:985][708]LogFbx: 	Attribute (Untitled.001) Type (4).
+[2020.11.14-16.44.42:985][708]LogFbx: 		[Node Attribute Child 1] WPN_P350 (Type Mesh).
+[2020.11.14-16.44.42:985][708]LogFbx: Dumping Node END [WPN_P350]
+[2020.11.14-16.44.42:985][708]LogFbx: =================================================
+[2020.11.14-16.44.42:985][708]LogFbx: Dumping Node START [WPN_P350] 
+[2020.11.14-16.44.42:985][708]LogFbx: 	Total Deformer Count 901938024.
+[2020.11.14-16.44.42:985][708]LogFbx: 		[Node 1] Armature (Type Skin).
+[2020.11.14-16.44.42:985][708]LogFbx: =================================================
+[2020.11.14-16.44.42:985][708]LogFbx: 	Attribute (Untitled.001) Type (4).
+[2020.11.14-16.44.42:985][708]LogFbx: 		[Node Attribute Child 1] WPN_P350 (Type Mesh).
+[2020.11.14-16.44.42:985][708]LogFbx: Dumping Node END [WPN_P350]
+[2020.11.14-16.44.42:997][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:997][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:997][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:997][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(0) Gun
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(1) Slider
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(2) Mag
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(3) Mag Bullets
+[2020.11.14-16.44.42:998][708]LogFbx: SortedLinks :(4) Trigger
+[2020.11.14-16.44.43:010][708]LogFbx: Parsing AnimStack ArmatureAction
+[2020.11.14-16.44.43:043][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_ArmatureAction'
+[2020.11.14-16.44.43:043][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_ArmatureAction'
+[2020.11.14-16.44.43:230][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_ArmatureAction.WPN_P350_Anims_Anim_ArmatureAction
+[2020.11.14-16.44.43:279][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_ArmatureAction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:316][708]LogFbx: Parsing AnimStack Fire
+[2020.11.14-16.44.43:317][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Fire'
+[2020.11.14-16.44.43:317][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Fire'
+[2020.11.14-16.44.43:358][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Fire.WPN_P350_Anims_Anim_Fire
+[2020.11.14-16.44.43:359][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:361][708]LogFbx: Parsing AnimStack Armature|cal_45.001|Take 001|BaseLayer
+[2020.11.14-16.44.43:362][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer'
+[2020.11.14-16.44.43:362][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer'
+[2020.11.14-16.44.43:422][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer.WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer
+[2020.11.14-16.44.43:422][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:424][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.114811,58.776970,148.728165|-13.567084,-3.146066,85.842499|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.880928,62.422810,144.725372|-13.567084,-3.146070,85.842506|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.174290,52.583279,154.028320|-13.566565,-3.146119,174.434662|1.000000,1.000000,1.000000), 
+Converted Global Transform (-17.940407,56.229118,150.025528|-13.566565,-3.146123,174.434662|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.233543,53.631889,149.406982|-13.567084,-3.145975,-84.270073|1.000000,1.000000,0.999995), 
+Converted Global Transform (-18.999660,57.277729,145.404190|-13.567091,-3.145978,-84.270058|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.309088,54.566284,153.019562|-13.567084,-3.145974,-84.270081|1.000000,1.000000,0.999995), 
+Converted Global Transform (-18.075205,58.212124,149.016769|-13.567091,-3.145977,-84.270073|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.483475,58.535801,151.395264|-13.567078,-3.146080,-82.402687|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.249592,62.181641,147.392471|-13.567084,-3.146083,-82.402687|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.051695,58.671227,148.951050|-12.954143,-3.377951,85.378609|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.817812,62.317066,144.948257|-12.954143,-3.377953,85.378616|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.503880,48.585381,153.911987|-12.953630,-3.378006,173.970764|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.269997,52.231224,149.909195|-12.953630,-3.378007,173.970795|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.208157,53.522175,149.590988|-12.954157,-3.377853,-84.733948|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.974274,57.168015,145.588196|-12.954157,-3.377855,-84.733932|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.318575,54.424938,153.220352|-12.954157,-3.377854,-84.733963|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.084692,58.070778,149.217560|-12.954157,-3.377855,-84.733932|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:425][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.451557,58.407047,151.623184|-12.954143,-3.377966,-82.866577|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.217674,62.052887,147.620392|-12.954136,-3.377968,-82.866554|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:425][708]LogFbx: Parsing AnimStack Armature|cal_45.002|Take 001|BaseLayer
+[2020.11.14-16.44.43:426][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_002_Take_001_BaseLayer'
+[2020.11.14-16.44.43:426][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_002_Take_001_BaseLayer'
+[2020.11.14-16.44.43:475][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_002_Take_001_BaseLayer.WPN_P350_Anims_Anim_Armature_cal_45_002_Take_001_BaseLayer
+[2020.11.14-16.44.43:475][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_cal_45_002_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:477][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.114811,58.776974,148.728149|-13.567078,-3.146058,85.842499|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.125095,62.349133,143.954712|-13.567084,-3.146060,85.842506|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:477][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.174292,52.583290,154.028336|-13.566565,-3.146111,174.434647|1.000000,1.000001,1.000000), 
+Converted Global Transform (-18.184576,56.155449,149.254898|-13.566565,-3.146115,174.434647|1.000000,1.000001,1.000000)
+[2020.11.14-16.44.43:477][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.233543,53.631908,149.406998|-13.567084,-3.145958,-84.270073|1.000000,1.000000,0.999995), 
+Converted Global Transform (-19.243828,57.204067,144.633560|-13.567084,-3.145962,-84.270042|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.309082,54.566311,153.019608|-13.567084,-3.145958,-84.270081|1.000000,1.000000,0.999995), 
+Converted Global Transform (-18.319366,58.138470,148.246170|-13.567084,-3.145963,-84.270042|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.483473,58.535812,151.395294|-13.567078,-3.146071,-82.402695|1.000000,1.000000,0.999997), 
+Converted Global Transform (-18.493757,62.107971,146.621857|-13.567078,-3.146073,-82.402695|1.000000,1.000000,0.999997)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.051693,58.671230,148.951035|-12.954143,-3.377943,85.378601|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.061977,62.243389,144.177597|-12.954143,-3.377944,85.378616|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.503874,48.585388,153.912003|-12.953630,-3.378000,173.970764|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.514158,52.157551,149.138565|-12.953624,-3.377999,173.970779|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.208153,53.522194,149.590988|-12.954157,-3.377842,-84.733955|1.000000,1.000000,0.999994), 
+Converted Global Transform (-19.218437,57.094353,144.817551|-12.954157,-3.377844,-84.733925|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.318571,54.424953,153.220337|-12.954157,-3.377843,-84.733963|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.328856,57.997112,148.446899|-12.954157,-3.377844,-84.733932|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:478][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.451555,58.407055,151.623184|-12.954143,-3.377958,-82.866585|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.461840,61.979214,146.849747|-12.954136,-3.377958,-82.866570|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:478][708]LogFbx: Parsing AnimStack Armature|cal_45.003|Take 001|BaseLayer
+[2020.11.14-16.44.43:479][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_003_Take_001_BaseLayer'
+[2020.11.14-16.44.43:479][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_003_Take_001_BaseLayer'
+[2020.11.14-16.44.43:526][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_003_Take_001_BaseLayer.WPN_P350_Anims_Anim_Armature_cal_45_003_Take_001_BaseLayer
+[2020.11.14-16.44.43:527][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_cal_45_003_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.114811,58.776966,148.728149|-13.567078,-3.146060,85.842499|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.125095,62.349125,138.442429|-13.567078,-3.146062,85.842506|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.174292,52.583275,154.028305|-13.566565,-3.146111,174.434662|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.184576,56.155434,143.742584|-13.566565,-3.146115,174.434662|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.233543,53.631882,149.406982|-13.567084,-3.145965,-84.270073|1.000000,1.000000,0.999994), 
+Converted Global Transform (-19.243828,57.204041,139.121262|-13.567084,-3.145968,-84.270050|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.309092,54.566280,153.019562|-13.567084,-3.145966,-84.270081|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.319376,58.138439,142.733841|-13.567084,-3.145968,-84.270042|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.483475,58.535797,151.395264|-13.567078,-3.146076,-82.402687|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.493759,62.107956,141.109543|-13.567084,-3.146078,-82.402687|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.051695,58.671223,148.951019|-12.954143,-3.377944,85.378609|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.061979,62.243382,138.665298|-12.954143,-3.377947,85.378616|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:529][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.503872,48.585377,153.911972|-12.953630,-3.378000,173.970764|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.514156,52.157539,143.626251|-12.953624,-3.378003,173.970779|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:530][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.208157,53.522163,149.590958|-12.954150,-3.377844,-84.733963|1.000000,1.000000,0.999994), 
+Converted Global Transform (-19.218441,57.094322,139.305237|-12.954150,-3.377846,-84.733932|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:530][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.318573,54.424923,153.220322|-12.954150,-3.377844,-84.733978|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.328857,57.997082,142.934601|-12.954150,-3.377845,-84.733940|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:530][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.451555,58.407043,151.623184|-12.954143,-3.377958,-82.866585|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.461840,61.979202,141.337463|-12.954143,-3.377959,-82.866570|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:531][708]LogFbx: Parsing AnimStack Armature|cal_45|Take 001|BaseLayer
+[2020.11.14-16.44.43:532][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_Take_001_BaseLayer'
+[2020.11.14-16.44.43:532][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_Take_001_BaseLayer'
+[2020.11.14-16.44.43:543][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_Take_001_BaseLayer.WPN_P350_Anims_Anim_Armature_cal_45_Take_001_BaseLayer
+[2020.11.14-16.44.43:544][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_cal_45_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:546][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.114811,58.776970,148.728180|-13.567084,-3.146064,85.842499|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.181217,62.578487,145.392914|-13.567084,-3.146067,85.842506|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:546][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.174284,52.583286,154.028366|-13.566565,-3.146116,174.434647|1.000000,1.000001,1.000000), 
+Converted Global Transform (-18.240690,56.384804,150.693100|-13.566565,-3.146121,174.434647|1.000000,1.000001,1.000000)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.233538,53.631901,149.407043|-13.567084,-3.145947,-84.270073|1.000000,1.000000,0.999995), 
+Converted Global Transform (-19.299944,57.433418,146.071777|-13.567084,-3.145950,-84.270050|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.309074,54.566299,153.019653|-13.567084,-3.145947,-84.270081|1.000000,1.000000,0.999995), 
+Converted Global Transform (-18.375481,58.367817,149.684387|-13.567084,-3.145950,-84.270058|1.000000,1.000000,0.999995)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.483469,58.535812,151.395309|-13.567078,-3.146079,-82.402695|1.000000,1.000000,0.999997), 
+Converted Global Transform (-18.549875,62.337330,148.060043|-13.567078,-3.146082,-82.402695|1.000000,1.000000,0.999997)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Gun:0) 
+Source Global Transform (-19.051695,58.671227,148.951065|-12.954143,-3.377948,85.378609|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.118101,62.472744,145.615799|-12.954143,-3.377949,85.378616|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Slider:1) 
+Source Global Transform (-18.503868,48.585377,153.912018|-12.953630,-3.378004,173.970749|1.000000,1.000000,1.000000), 
+Converted Global Transform (-18.570274,52.386894,150.576752|-12.953630,-3.378003,173.970764|1.000000,1.000000,1.000000)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag:2) 
+Source Global Transform (-19.208149,53.522179,149.591003|-12.954150,-3.377835,-84.733986|1.000000,1.000000,0.999994), 
+Converted Global Transform (-19.274555,57.323696,146.255737|-12.954150,-3.377835,-84.733963|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Mag-Bullets:3) 
+Source Global Transform (-18.318567,54.424934,153.220352|-12.954150,-3.377835,-84.733994|1.000000,1.000000,0.999994), 
+Converted Global Transform (-18.384974,58.226452,149.885086|-12.954143,-3.377834,-84.733963|1.000000,1.000000,0.999994)
+[2020.11.14-16.44.43:547][708]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Trigger:4) 
+Source Global Transform (-18.451550,58.407043,151.623215|-12.954143,-3.377959,-82.866585|1.000000,1.000000,0.999996), 
+Converted Global Transform (-18.517956,62.208561,148.287949|-12.954136,-3.377959,-82.866570|1.000000,1.000000,0.999996)
+[2020.11.14-16.44.43:547][708]LogFbx: Parsing AnimStack Armature|Fire
+[2020.11.14-16.44.43:548][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Fire'
+[2020.11.14-16.44.43:548][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Fire'
+[2020.11.14-16.44.43:612][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Fire.WPN_P350_Anims_Anim_Armature_Fire
+[2020.11.14-16.44.43:612][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:615][708]LogFbx: Parsing AnimStack Armature|Reload
+[2020.11.14-16.44.43:615][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Reload'
+[2020.11.14-16.44.43:616][708]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Reload'
+[2020.11.14-16.44.43:690][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_Reload.WPN_P350_Anims_Anim_Armature_Reload
+[2020.11.14-16.44.43:690][708]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims_Anim_Armature_Reload) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-16.44.43:852][708]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.14-16.44.43:852][708]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2020.11.14-16.44.43:852][708]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2020.11.14-16.44.43:852][708]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2020.11.14-16.44.43:852][708]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2020.11.14-16.44.51:672][855]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.11.14-16.44.52:967][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.14-16.44.53:785][855]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.14-16.44.56:225][855]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0213 seconds. Added 1 classes and 0 folders.
+[2020.11.14-16.44.56:405][855]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-16.45.27:253][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2020.11.14-16.45.27:298][780]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_1.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2020.11.14-16.45.27:889][780]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-16.45.34:060][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_2.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2020.11.14-16.45.34:107][980]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_2.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2020.11.14-16.45.35:028][980]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-16.45.50:684][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/Reload" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/Reload.uasset" SILENT=true
+[2020.11.14-16.45.50:834][519]LogSavePackage: Save=118.21ms
+[2020.11.14-16.45.50:835][519]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/Reload4BF516CC431B0BD101ABD581FFA6928A.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/Reload.uasset'
+[2020.11.14-16.45.50:908][519]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/Reload.uasset
+[2020.11.14-16.46.08:174][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims.uasset" SILENT=true
+[2020.11.14-16.46.08:213][ 62]LogSavePackage: Save=36.39ms
+[2020.11.14-16.46.08:213][ 62]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims7EE84C7F47B310EEF620B390698411C2.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims.uasset'
+[2020.11.14-16.46.08:217][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims.uasset
+[2020.11.14-16.46.08:316][ 62]LogSavePackage: Save=56.99ms
+[2020.11.14-16.46.08:316][ 62]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims_Anim_Armature_cal857F0E764CF6FF79392884B6E0DF24BB.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer.uasset'
+[2020.11.14-16.46.08:319][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_Anim_Armature_cal_45_001_Take_001_BaseLayer.uasset
+[2020.11.14-16.46.08:414][ 62]LogSavePackage: Save=30.93ms
+[2020.11.14-16.46.08:414][ 62]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims_PhysicsAssetB328E2F34D6310A861CC719AB5B9A9C4.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_PhysicsAsset.uasset'
+[2020.11.14-16.46.08:416][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_PhysicsAsset.uasset
+[2020.11.14-16.46.08:432][ 62]LogSavePackage: Save=8.09ms
+[2020.11.14-16.46.08:432][ 62]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims_Skeleton2B27CCF7495F8A7BCB5C83888C562022.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_Skeleton.uasset'
+[2020.11.14-16.46.08:435][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims_Skeleton.uasset
+[2020.11.14-16.46.09:462][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2020.11.14-16.46.09:507][103]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_3.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2020.11.14-16.46.10:095][103]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-16.46.17:293][336]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2020.11.14-16.46.17:338][336]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_4.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2020.11.14-16.46.17:915][336]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.17.53:481][ 16]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx)
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: Model, ItemCount : 7
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: Pose, ItemCount : 1
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: Deformer, ItemCount : 6
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: Material, ItemCount : 2
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: AnimationStack, ItemCount : 9
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: AnimationLayer, ItemCount : 9
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: AnimationCurveNode, ItemCount : 162
+[2020.11.14-17.17.53:707][ 16]LogFbx: ItemName: AnimationCurve, ItemCount : 486
+[2020.11.14-17.17.53:722][ 16]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx
+[2020.11.14-17.17.53:834][ 16]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-17.17.57:065][ 16]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx
+[2020.11.14-17.17.57:113][ 16]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-17.17.57:152][ 16]LogFbx: =================================================
+[2020.11.14-17.17.57:152][ 16]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.17.57:152][ 16]LogFbx: 	Total Deformer Count -1718422176.
+[2020.11.14-17.17.57:152][ 16]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.17.57:152][ 16]LogFbx: =================================================
+[2020.11.14-17.17.57:152][ 16]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.17.57:152][ 16]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.17.57:152][ 16]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.17.57:153][ 16]LogFbx: =================================================
+[2020.11.14-17.17.57:153][ 16]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.17.57:153][ 16]LogFbx: 	Total Deformer Count -1718422176.
+[2020.11.14-17.17.57:153][ 16]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.17.57:153][ 16]LogFbx: =================================================
+[2020.11.14-17.17.57:153][ 16]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.17.57:153][ 16]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.17.57:153][ 16]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.17.57:153][ 16]LogFbx: Valid bind pose for Pose (Untitled.000) - WPN_P350.002
+[2020.11.14-17.17.57:248][ 16]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 4
+[2020.11.14-17.17.57:677][ 16]LogSkeletalMesh: Section 0: 7561 vertices, 4 active bones
+[2020.11.14-17.17.57:678][ 16]LogSkeletalMesh: Section 1: 1410 vertices, 1 active bones
+[2020.11.14-17.17.57:716][ 16]LogSkeletalMesh: Section 0: Material=0, 7968 triangles
+[2020.11.14-17.17.57:716][ 16]LogSkeletalMesh: Section 1: Material=1, 1998 triangles
+[2020.11.14-17.17.57:766][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton'
+[2020.11.14-17.17.57:769][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton'
+[2020.11.14-17.17.57:802][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset'
+[2020.11.14-17.17.57:802][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset'
+[2020.11.14-17.17.58:188][ 16]LogFbx: =================================================
+[2020.11.14-17.17.58:188][ 16]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.17.58:188][ 16]LogFbx: 	Total Deformer Count 1890353536.
+[2020.11.14-17.17.58:188][ 16]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.17.58:188][ 16]LogFbx: =================================================
+[2020.11.14-17.17.58:188][ 16]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.17.58:188][ 16]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.17.58:188][ 16]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.17.58:188][ 16]LogFbx: =================================================
+[2020.11.14-17.17.58:188][ 16]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.17.58:188][ 16]LogFbx: 	Total Deformer Count 1890353536.
+[2020.11.14-17.17.58:188][ 16]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.17.58:188][ 16]LogFbx: =================================================
+[2020.11.14-17.17.58:188][ 16]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.17.58:188][ 16]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.17.58:188][ 16]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:188][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.17.58:189][ 16]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.17.58:192][ 16]LogFbx: Parsing AnimStack ArmatureAction
+[2020.11.14-17.17.58:229][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction'
+[2020.11.14-17.17.58:230][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction'
+[2020.11.14-17.17.58:243][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.WPN_P350_Anims2_Anim_ArmatureAction
+[2020.11.14-17.17.58:243][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_ArmatureAction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:290][ 16]LogFbx: Parsing AnimStack Fire
+[2020.11.14-17.17.58:290][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire'
+[2020.11.14-17.17.58:291][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire'
+[2020.11.14-17.17.58:320][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire.WPN_P350_Anims2_Anim_Fire
+[2020.11.14-17.17.58:321][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:323][ 16]LogFbx: Parsing AnimStack Gun 2|cal_45.001|Take 001|BaseLayer
+[2020.11.14-17.17.58:324][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer'
+[2020.11.14-17.17.58:324][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer'
+[2020.11.14-17.17.58:370][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer
+[2020.11.14-17.17.58:370][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:373][ 16]LogFbx: Parsing AnimStack Gun 2|cal_45.002|Take 001|BaseLayer
+[2020.11.14-17.17.58:374][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer'
+[2020.11.14-17.17.58:374][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer'
+[2020.11.14-17.17.58:406][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer
+[2020.11.14-17.17.58:406][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:448][ 16]LogFbx: Parsing AnimStack Gun 2|cal_45.003|Take 001|BaseLayer
+[2020.11.14-17.17.58:449][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer'
+[2020.11.14-17.17.58:449][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer'
+[2020.11.14-17.17.58:461][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer
+[2020.11.14-17.17.58:461][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:464][ 16]LogFbx: Parsing AnimStack Gun 2|cal_45|Take 001|BaseLayer
+[2020.11.14-17.17.58:464][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer'
+[2020.11.14-17.17.58:465][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer'
+[2020.11.14-17.17.58:569][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer
+[2020.11.14-17.17.58:570][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:573][ 16]LogFbx: Parsing AnimStack Gun 2|Fire
+[2020.11.14-17.17.58:612][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire'
+[2020.11.14-17.17.58:613][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire'
+[2020.11.14-17.17.58:633][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire.WPN_P350_Anims2_Anim_Gun_2_Fire
+[2020.11.14-17.17.58:633][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:636][ 16]LogFbx: Parsing AnimStack Gun 2|Reload
+[2020.11.14-17.17.58:637][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload'
+[2020.11.14-17.17.58:637][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload'
+[2020.11.14-17.17.58:748][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.WPN_P350_Anims2_Anim_Gun_2_Reload
+[2020.11.14-17.17.58:749][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Reload) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:751][ 16]LogFbx: Parsing AnimStack Gun 2|Reload.001
+[2020.11.14-17.17.58:752][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001'
+[2020.11.14-17.17.58:753][ 16]LogLinker: Can't find file '/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001'
+[2020.11.14-17.17.58:783][ 16]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001.WPN_P350_Anims2_Anim_Gun_2_Reload_001
+[2020.11.14-17.17.58:783][ 16]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Reload_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.17.58:819][ 16]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.14-17.18.02:479][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_5.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2020.11.14-17.18.02:850][118]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_5.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2020.11.14-17.18.04:880][118]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.18.14:659][420]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_6.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2020.11.14-17.18.14:704][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.Actor_6.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2020.11.14-17.18.15:237][420]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.19.01:632][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset" SILENT=true
+[2020.11.14-17.19.02:134][ 20]LogSavePackage: Save=469.68ms
+[2020.11.14-17.19.02:135][ 20]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims271047138416F56C0A0DC5BA97179D839.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset'
+[2020.11.14-17.19.02:138][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset
+[2020.11.14-17.19.02:267][ 20]LogSavePackage: Save=68.11ms
+[2020.11.14-17.19.02:267][ 20]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_ArmatureAct1AAE4B1B410038D1218AF98789C504CC.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.uasset'
+[2020.11.14-17.19.02:280][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.uasset
+[2020.11.14-17.19.02:430][ 20]LogSavePackage: Save=104.68ms
+[2020.11.14-17.19.02:430][ 20]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_Reloa2C9266994A70B05A984F60A50F05D9C5.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.uasset'
+[2020.11.14-17.19.02:432][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.uasset
+[2020.11.14-17.19.02:495][ 20]LogSavePackage: Save=21.05ms
+[2020.11.14-17.19.02:495][ 20]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_PhysicsAsset5C96636E41F6AE4A03FB4F9A07AE3208.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset.uasset'
+[2020.11.14-17.19.02:497][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset.uasset
+[2020.11.14-17.19.02:541][ 20]LogSavePackage: Save=31.84ms
+[2020.11.14-17.19.02:541][ 20]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_SkeletonD78635A64E07F5E6E2A0138EB4BF88B8.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton.uasset'
+[2020.11.14-17.19.02:543][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton.uasset
+[2020.11.14-17.20.10:118][720]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.11.14-17.20.36:911][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/P350_Fire" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Fire.uasset" SILENT=true
+[2020.11.14-17.20.36:957][520]LogSavePackage: Save=44.38ms
+[2020.11.14-17.20.36:957][520]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/P350_FireA1624F394B4C741E4C4311826BEB6190.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Fire.uasset'
+[2020.11.14-17.20.36:960][520]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Fire.uasset
+[2020.11.14-17.20.49:842][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/P350_Reload" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Reload.uasset" SILENT=true
+[2020.11.14-17.20.49:859][ 25]LogSavePackage: Save=15.02ms
+[2020.11.14-17.20.49:859][ 25]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/P350_Reload3B064C674F8B5618D6AE0DB4ECC8EFD7.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Reload.uasset'
+[2020.11.14-17.20.49:861][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/P350_Reload.uasset
+[2020.11.14-17.20.59:412][309]LogEditorExporters: Warning: Cannot export animation sequence [P350_Fire] because the preview mesh is not set.
+[2020.11.14-17.21.00:642][309]LogEditorExporters: Warning: Cannot export animation sequence [P350_Reload] because the preview mesh is not set.
+[2020.11.14-17.21.28:062][698]LogEditorExporters: Warning: Cannot export animation sequence [P350_Fire] because the preview mesh is not set.
+[2020.11.14-17.21.46:236][ 51]LogEditorExporters: Warning: Cannot export animation sequence [P350_Reload] because the preview mesh is not set.
+[2020.11.14-17.21.52:499][224]LogEditorExporters: Warning: Cannot export animation sequence [P350_Fire] because the preview mesh is not set.
+[2020.11.14-17.21.53:698][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.Actor_7.DebugSkelMeshComponent_29) Already registered. Aborting.
+[2020.11.14-17.21.53:747][272]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.Actor_7.DebugSkelMeshComponent_29) - call TermArticulated first.
+[2020.11.14-17.21.54:341][272]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.22.03:514][580]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_8.DebugSkelMeshComponent_31) Already registered. Aborting.
+[2020.11.14-17.22.03:558][580]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.Actor_8.DebugSkelMeshComponent_31) - call TermArticulated first.
+[2020.11.14-17.22.04:118][580]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.22.13:924][905]LogEditorExporters: Warning: Cannot export animation sequence [P350_Reload] because the preview mesh is not set.
+[2020.11.14-17.22.21:953][110]LogEditorExporters: Warning: Cannot export animation sequence [P350_Fire] because the preview mesh is not set.
+[2020.11.14-17.22.39:426][526]LogAssetTools: Exporting "/Game/GameContent/Weapons/NewFolder/P350_Fire.P350_Fire" to "E:/GameDev/GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/New folder/Game/GameContent/Weapons/NewFolder/P350_Fire.FBX"
+[2020.11.14-17.22.39:461][526]LogEditorExporters: Warning: Cannot export animation sequence [P350_Fire] because the preview mesh is not set.
+[2020.11.14-17.22.39:461][526]LogAssetTools: Exporting "/Game/GameContent/Weapons/NewFolder/P350_Reload.P350_Reload" to "E:/GameDev/GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/New folder/Game/GameContent/Weapons/NewFolder/P350_Reload.FBX"
+[2020.11.14-17.22.39:462][526]LogEditorExporters: Warning: Cannot export animation sequence [P350_Reload] because the preview mesh is not set.
+[2020.11.14-17.22.47:034][618]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_9.DebugSkelMeshComponent_33) Already registered. Aborting.
+[2020.11.14-17.22.47:167][618]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.Actor_9.DebugSkelMeshComponent_33) - call TermArticulated first.
+[2020.11.14-17.22.48:126][618]LogSlate: Took 0.140152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.14-17.22.49:681][644]LogSlate: Took 0.011063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.11.14-17.23.04:041][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_10.DebugSkelMeshComponent_34) Already registered. Aborting.
+[2020.11.14-17.23.04:085][ 99]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.Actor_10.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2020.11.14-17.23.04:687][ 99]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.23.30:990][691]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx)
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: Model, ItemCount : 7
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: Pose, ItemCount : 1
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: Deformer, ItemCount : 6
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: Material, ItemCount : 2
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: AnimationStack, ItemCount : 9
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: AnimationLayer, ItemCount : 9
+[2020.11.14-17.23.31:001][691]LogFbx: ItemName: AnimationCurveNode, ItemCount : 162
+[2020.11.14-17.23.31:002][691]LogFbx: ItemName: AnimationCurve, ItemCount : 486
+[2020.11.14-17.23.31:007][691]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx
+[2020.11.14-17.23.31:051][691]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-17.23.33:466][691]LogFbx: Loading FBX Scene from ../../../../../../GameAssets/ProjectFiles/I am Legend/Weapons/WPN_P350/WPN_P350_Anims2.fbx
+[2020.11.14-17.23.33:513][691]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.14-17.23.33:514][691]LogFbx: =================================================
+[2020.11.14-17.23.33:514][691]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.23.33:514][691]LogFbx: 	Total Deformer Count 1889601632.
+[2020.11.14-17.23.33:514][691]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.23.33:514][691]LogFbx: =================================================
+[2020.11.14-17.23.33:514][691]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.23.33:514][691]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.23.33:514][691]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.23.33:514][691]LogFbx: =================================================
+[2020.11.14-17.23.33:514][691]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.23.33:514][691]LogFbx: 	Total Deformer Count 1889601632.
+[2020.11.14-17.23.33:514][691]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.23.33:514][691]LogFbx: =================================================
+[2020.11.14-17.23.33:514][691]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.23.33:514][691]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.23.33:514][691]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.23.33:515][691]LogFbx: Valid bind pose for Pose (Untitled.000) - WPN_P350.002
+[2020.11.14-17.23.33:614][691]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 4
+[2020.11.14-17.23.33:922][691]LogSkeletalMesh: Section 0: 7561 vertices, 4 active bones
+[2020.11.14-17.23.33:923][691]LogSkeletalMesh: Section 1: 1410 vertices, 1 active bones
+[2020.11.14-17.23.33:961][691]LogSkeletalMesh: Section 0: Material=0, 7968 triangles
+[2020.11.14-17.23.33:961][691]LogSkeletalMesh: Section 1: Material=1, 1998 triangles
+[2020.11.14-17.23.33:974][691]LogFbx: =================================================
+[2020.11.14-17.23.33:974][691]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.23.33:974][691]LogFbx: 	Total Deformer Count 1381147376.
+[2020.11.14-17.23.33:974][691]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.23.33:974][691]LogFbx: =================================================
+[2020.11.14-17.23.33:974][691]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.23.33:974][691]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.23.33:974][691]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.23.33:975][691]LogFbx: =================================================
+[2020.11.14-17.23.33:975][691]LogFbx: Dumping Node START [WPN_P350.002] 
+[2020.11.14-17.23.33:975][691]LogFbx: 	Total Deformer Count 1381147376.
+[2020.11.14-17.23.33:975][691]LogFbx: 		[Node 1] Gun 2 (Type Skin).
+[2020.11.14-17.23.33:975][691]LogFbx: =================================================
+[2020.11.14-17.23.33:975][691]LogFbx: 	Attribute (Untitled.000) Type (4).
+[2020.11.14-17.23.33:975][691]LogFbx: 		[Node Attribute Child 1] WPN_P350.002 (Type Mesh).
+[2020.11.14-17.23.33:975][691]LogFbx: Dumping Node END [WPN_P350.002]
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:975][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(0) Gun 2
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(1) Gun
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(2) Slider
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(3) Mag
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(4) Mag Bullets
+[2020.11.14-17.23.33:976][691]LogFbx: SortedLinks :(5) Trigger
+[2020.11.14-17.23.33:978][691]LogFbx: Parsing AnimStack ArmatureAction
+[2020.11.14-17.23.34:025][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.WPN_P350_Anims2_Anim_ArmatureAction
+[2020.11.14-17.23.34:026][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_ArmatureAction) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:026][691]LogFbx: Parsing AnimStack Fire
+[2020.11.14-17.23.34:096][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire.WPN_P350_Anims2_Anim_Fire
+[2020.11.14-17.23.34:097][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:098][691]LogFbx: Parsing AnimStack Gun 2|cal_45.001|Take 001|BaseLayer
+[2020.11.14-17.23.34:157][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer
+[2020.11.14-17.23.34:157][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:158][691]LogFbx: Parsing AnimStack Gun 2|cal_45.002|Take 001|BaseLayer
+[2020.11.14-17.23.34:170][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer
+[2020.11.14-17.23.34:170][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:171][691]LogFbx: Parsing AnimStack Gun 2|cal_45.003|Take 001|BaseLayer
+[2020.11.14-17.23.34:240][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer
+[2020.11.14-17.23.34:240][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:240][691]LogFbx: Parsing AnimStack Gun 2|cal_45|Take 001|BaseLayer
+[2020.11.14-17.23.34:252][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer.WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer
+[2020.11.14-17.23.34:253][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:254][691]LogFbx: Parsing AnimStack Gun 2|Fire
+[2020.11.14-17.23.34:364][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire.WPN_P350_Anims2_Anim_Gun_2_Fire
+[2020.11.14-17.23.34:364][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Fire) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:366][691]LogFbx: Parsing AnimStack Gun 2|Reload
+[2020.11.14-17.23.34:418][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.WPN_P350_Anims2_Anim_Gun_2_Reload
+[2020.11.14-17.23.34:419][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Reload) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:419][691]LogFbx: Parsing AnimStack Gun 2|Reload.001
+[2020.11.14-17.23.34:475][691]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001.WPN_P350_Anims2_Anim_Gun_2_Reload_001
+[2020.11.14-17.23.34:476][691]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WPN_P350_Anims2_Anim_Gun_2_Reload_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.11.14-17.23.34:487][691]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.14-17.23.37:052][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.Actor_11.DebugSkelMeshComponent_36) Already registered. Aborting.
+[2020.11.14-17.23.37:072][786]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.Actor_11.DebugSkelMeshComponent_36) - call TermArticulated first.
+[2020.11.14-17.23.37:615][786]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.24.17:423][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.Actor_12.DebugSkelMeshComponent_38) Already registered. Aborting.
+[2020.11.14-17.24.17:469][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.Actor_12.DebugSkelMeshComponent_38) - call TermArticulated first.
+[2020.11.14-17.24.18:028][193]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.11.14-17.24.28:272][458]LogEditorExporters: Warning: Cannot export animation sequence [WPN_P350_Anims2_Anim_ArmatureAction] because the preview mesh is not set.
+[2020.11.14-17.25.05:240][665]LogEditorExporters: Warning: Cannot export animation sequence [WPN_P350_Anims2_Anim_Gun_2_Reload_001] because the preview mesh is not set.
+[2020.11.14-17.25.33:206][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Weapons/NewFolder/WPN_P350_Anims2" FILE="../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset" SILENT=true
+[2020.11.14-17.25.33:248][ 12]LogSavePackage: Save=39.72ms
+[2020.11.14-17.25.33:248][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims213E8D88341654A6E8139D8A4522BCD5D.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset'
+[2020.11.14-17.25.33:251][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2.uasset
+[2020.11.14-17.25.33:311][ 12]LogSavePackage: Save=15.82ms
+[2020.11.14-17.25.33:311][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_ArmatureAct4ED2E7DD4170CFBD69F768BA27247AA8.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.uasset'
+[2020.11.14-17.25.33:314][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_ArmatureAction.uasset
+[2020.11.14-17.25.33:393][ 12]LogSavePackage: Save=35.57ms
+[2020.11.14-17.25.33:393][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_FireF54DECE4461DF507E1F3D997AB82426F.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire.uasset'
+[2020.11.14-17.25.33:396][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Fire.uasset
+[2020.11.14-17.25.33:457][ 12]LogSavePackage: Save=20.16ms
+[2020.11.14-17.25.33:457][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_cal_42F6011BD4F0E463C4FDB7E959E4F49AA.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer.uasset'
+[2020.11.14-17.25.33:460][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_001_Take_001_BaseLayer.uasset
+[2020.11.14-17.25.33:518][ 12]LogSavePackage: Save=15.71ms
+[2020.11.14-17.25.33:518][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_cal_4A6EF16594E9F1ADF68F869B98A4FFED7.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer.uasset'
+[2020.11.14-17.25.33:520][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_002_Take_001_BaseLayer.uasset
+[2020.11.14-17.25.33:578][ 12]LogSavePackage: Save=15.28ms
+[2020.11.14-17.25.33:578][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_cal_4D98853F54704DC89DD3DA4A7024F39DB.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer.uasset'
+[2020.11.14-17.25.33:581][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_003_Take_001_BaseLayer.uasset
+[2020.11.14-17.25.33:637][ 12]LogSavePackage: Save=15.41ms
+[2020.11.14-17.25.33:638][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_cal_44FF902A346A2AED7FB0F29B498386C52.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer.uasset'
+[2020.11.14-17.25.33:640][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_cal_45_Take_001_BaseLayer.uasset
+[2020.11.14-17.25.33:706][ 12]LogSavePackage: Save=24.58ms
+[2020.11.14-17.25.33:706][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_Fire9B7F39B445B9A39A1DF638A180727D27.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire.uasset'
+[2020.11.14-17.25.33:710][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Fire.uasset
+[2020.11.14-17.25.33:799][ 12]LogSavePackage: Save=39.94ms
+[2020.11.14-17.25.33:799][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_ReloaB6C39EDD4EDB72482F53918DC5FA3BAC.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.uasset'
+[2020.11.14-17.25.33:801][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload.uasset
+[2020.11.14-17.25.33:862][ 12]LogSavePackage: Save=17.54ms
+[2020.11.14-17.25.33:862][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Anim_Gun_2_Reloa491A48FF49B48C2846A99BBC997A7257.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001.uasset'
+[2020.11.14-17.25.33:865][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Anim_Gun_2_Reload_001.uasset
+[2020.11.14-17.25.33:923][ 12]LogSavePackage: Save=13.77ms
+[2020.11.14-17.25.33:923][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_PhysicsAsset982C8AA047F2273AA73DD7B3C09DEE68.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset.uasset'
+[2020.11.14-17.25.33:926][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_PhysicsAsset.uasset
+[2020.11.14-17.25.33:965][ 12]LogSavePackage: Save=33.01ms
+[2020.11.14-17.25.33:965][ 12]LogSavePackage: Moving '../../../../../GITHUB/IML/MyProject_01/Saved/WPN_P350_Anims2_Skeleton57F3D52C4941C53EC74F119723A87EAC.tmp' to '../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton.uasset'
+[2020.11.14-17.25.33:968][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../GITHUB/IML/MyProject_01/Content/GameContent/Weapons/NewFolder/WPN_P350_Anims2_Skeleton.uasset
+[2020.11.14-17.25.45:588][393]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.14-17.25.47:142][394]Cmd: QUIT_EDITOR
+[2020.11.14-17.25.49:863][394]LogExit: Preparing to exit.
+[2020.11.14-17.25.53:577][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/' was aborted.
+[2020.11.14-17.25.55:178][394]LogExit: Editor shut down
+[2020.11.14-17.25.55:545][394]LogExit: Transaction tracking system shut down
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../../../GITHUB/IML/MyProject_01/Content/' was aborted.
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.11.14-17.25.58:602][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.11.14-17.25.58:622][394]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.11.14-17.26.02:789][394]LogExit: Object subsystem successfully closed.
+[2020.11.14-17.26.03:660][394]LogD3D11RHI: Shutdown
+[2020.11.14-17.26.03:661][394]LogD3D11RHI: CleanupD3DDevice
+[2020.11.14-17.26.04:286][394]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.14-17.26.07:703][394]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (560)
+[2020.11.14-17.26.07:703][394]LogModuleManager: Shutting down and abandoning module SkeletonEditor (558)
+[2020.11.14-17.26.07:703][394]LogModuleManager: Shutting down and abandoning module AnimationEditor (556)
+[2020.11.14-17.26.07:703][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (554)
+[2020.11.14-17.26.07:703][394]LogModuleManager: Shutting down and abandoning module AddContentDialog (552)
+[2020.11.14-17.26.07:769][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/Engine/UE_4.18/FeaturePacks/' was aborted.
+[2020.11.14-17.26.07:967][394]LogModuleManager: Shutting down and abandoning module WidgetCarousel (551)
+[2020.11.14-17.26.07:967][394]LogModuleManager: Shutting down and abandoning module EditorWidgets (548)
+[2020.11.14-17.26.07:967][394]LogModuleManager: Shutting down and abandoning module CollectionManager (546)
+[2020.11.14-17.26.07:985][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Collections/' was aborted.
+[2020.11.14-17.26.07:985][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Content/Developers/farha/Collections/' was aborted.
+[2020.11.14-17.26.07:985][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Saved/Collections/' was aborted.
+[2020.11.14-17.26.07:985][394]LogModuleManager: Shutting down and abandoning module SceneOutliner (544)
+[2020.11.14-17.26.08:002][394]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2020.11.14-17.26.08:028][394]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2020.11.14-17.26.08:028][394]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2020.11.14-17.26.08:087][394]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2020.11.14-17.26.08:099][394]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2020.11.14-17.26.08:099][394]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2020.11.14-17.26.08:099][394]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2020.11.14-17.26.08:106][394]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2020.11.14-17.26.08:106][394]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2020.11.14-17.26.08:113][394]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2020.11.14-17.26.08:120][394]LogModuleManager: Shutting down and abandoning module HardwareSurvey (522)
+[2020.11.14-17.26.08:131][394]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (520)
+[2020.11.14-17.26.08:131][394]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2020.11.14-17.26.08:141][394]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2020.11.14-17.26.08:187][394]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2020.11.14-17.26.08:243][394]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2020.11.14-17.26.08:243][394]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2020.11.14-17.26.08:243][394]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (508)
+[2020.11.14-17.26.08:243][394]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2020.11.14-17.26.08:243][394]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (502)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (498)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module CharacterAI (492)
+[2020.11.14-17.26.08:244][394]LogModuleManager: Shutting down and abandoning module AudioCapture (490)
+[2020.11.14-17.26.08:249][394]LogModuleManager: Shutting down and abandoning module SequenceRecorder (489)
+[2020.11.14-17.26.08:258][394]LogModuleManager: Shutting down and abandoning module SmartSnapping (486)
+[2020.11.14-17.26.08:258][394]LogModuleManager: Shutting down and abandoning module SessionServices (484)
+[2020.11.14-17.26.08:258][394]LogModuleManager: Shutting down and abandoning module ViewportSnapping (482)
+[2020.11.14-17.26.08:258][394]LogModuleManager: Shutting down and abandoning module ViewportInteraction (480)
+[2020.11.14-17.26.08:258][394]LogModuleManager: Shutting down and abandoning module ClothPainter (478)
+[2020.11.14-17.26.08:281][394]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (477)
+[2020.11.14-17.26.08:281][394]LogModuleManager: Shutting down and abandoning module LogVisualizer (474)
+[2020.11.14-17.26.08:305][394]LogModuleManager: Shutting down and abandoning module IntroTutorials (472)
+[2020.11.14-17.26.08:353][394]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (471)
+[2020.11.14-17.26.08:391][394]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2020.11.14-17.26.08:391][394]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2020.11.14-17.26.08:391][394]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2020.11.14-17.26.08:391][394]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2020.11.14-17.26.08:823][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (460)
+[2020.11.14-17.26.08:824][394]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (458)
+[2020.11.14-17.26.08:824][394]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2020.11.14-17.26.08:824][394]LogModuleManager: Shutting down and abandoning module InputBindingEditor (454)
+[2020.11.14-17.26.08:848][394]LogModuleManager: Shutting down and abandoning module MergeActors (452)
+[2020.11.14-17.26.08:864][394]LogModuleManager: Shutting down and abandoning module SizeMap (450)
+[2020.11.14-17.26.08:864][394]LogModuleManager: Shutting down and abandoning module TreeMap (448)
+[2020.11.14-17.26.08:905][394]LogModuleManager: Shutting down and abandoning module ReferenceViewer (446)
+[2020.11.14-17.26.08:905][394]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (444)
+[2020.11.14-17.26.08:921][394]LogModuleManager: Shutting down and abandoning module LocalizationService (443)
+[2020.11.14-17.26.08:928][394]LogModuleManager: Shutting down and abandoning module HardwareTargeting (440)
+[2020.11.14-17.26.08:928][394]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (438)
+[2020.11.14-17.26.08:928][394]LogModuleManager: Shutting down and abandoning module UndoHistory (436)
+[2020.11.14-17.26.08:929][394]LogModuleManager: Shutting down and abandoning module XmlParser (434)
+[2020.11.14-17.26.08:936][394]LogModuleManager: Shutting down and abandoning module Blutility (432)
+[2020.11.14-17.26.08:936][394]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (430)
+[2020.11.14-17.26.08:936][394]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (429)
+[2020.11.14-17.26.08:936][394]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (426)
+[2020.11.14-17.26.08:937][394]LogModuleManager: Shutting down and abandoning module SettingsEditor (424)
+[2020.11.14-17.26.08:950][394]LogModuleManager: Shutting down and abandoning module ProjectLauncher (422)
+[2020.11.14-17.26.08:966][394]LogModuleManager: Shutting down and abandoning module SessionFrontend (420)
+[2020.11.14-17.26.08:986][394]LogModuleManager: Shutting down and abandoning module ProfilerClient (418)
+[2020.11.14-17.26.08:994][394]LogModuleManager: Shutting down and abandoning module DeviceManager (416)
+[2020.11.14-17.26.09:004][394]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (415)
+[2020.11.14-17.26.09:104][394]LogModuleManager: Shutting down and abandoning module AutomationController (412)
+[2020.11.14-17.26.09:150][394]LogModuleManager: Shutting down and abandoning module AutomationWindow (410)
+[2020.11.14-17.26.09:172][394]LogModuleManager: Shutting down and abandoning module Layers (408)
+[2020.11.14-17.26.09:195][394]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (406)
+[2020.11.14-17.26.09:195][394]LogModuleManager: Shutting down and abandoning module DetailCustomizations (404)
+[2020.11.14-17.26.09:206][394]LogModuleManager: Shutting down and abandoning module PackagesDialog (402)
+[2020.11.14-17.26.09:207][394]LogModuleManager: Shutting down and abandoning module Persona (400)
+[2020.11.14-17.26.09:207][394]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (399)
+[2020.11.14-17.26.09:207][394]LogModuleManager: Shutting down and abandoning module AnimGraph (397)
+[2020.11.14-17.26.09:218][394]LogModuleManager: Shutting down and abandoning module Kismet (394)
+[2020.11.14-17.26.09:261][394]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2020.11.14-17.26.09:286][394]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2020.11.14-17.26.09:286][394]LogModuleManager: Shutting down and abandoning module ModuleUI (388)
+[2020.11.14-17.26.09:300][394]LogModuleManager: Shutting down and abandoning module MovieSceneTools (386)
+[2020.11.14-17.26.09:357][394]LogModuleManager: Shutting down and abandoning module OutputLog (384)
+[2020.11.14-17.26.09:365][394]LogModuleManager: Shutting down and abandoning module GammaUI (382)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module Documentation (380)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (378)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module MovieScene (376)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (374)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module LauncherPlatform (372)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module AnalyticsET (370)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module PortalServices (368)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module PortalRpc (366)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module MessagingRpc (364)
+[2020.11.14-17.26.09:370][394]LogModuleManager: Shutting down and abandoning module AIModule (362)
+[2020.11.14-17.26.09:375][394]LogModuleManager: Shutting down and abandoning module GameplayDebugger (361)
+[2020.11.14-17.26.09:392][394]LogModuleManager: Shutting down and abandoning module AITestSuite (359)
+[2020.11.14-17.26.09:399][394]LogModuleManager: Shutting down and abandoning module DesktopPlatform (356)
+[2020.11.14-17.26.09:408][394]LogModuleManager: Shutting down and abandoning module ProfilerService (354)
+[2020.11.14-17.26.09:585][394]LogModuleManager: Shutting down and abandoning module TaskGraph (352)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module SteamVRController (350)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (348)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (346)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module OculusInput (344)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (342)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (340)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module CableComponent (338)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (336)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module AndroidPermission (334)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2020.11.14-17.26.09:624][394]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (330)
+[2020.11.14-17.26.09:657][394]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (328)
+[2020.11.14-17.26.09:669][394]LogModuleManager: Shutting down and abandoning module MediaCompositing (326)
+[2020.11.14-17.26.09:669][394]LogModuleManager: Shutting down and abandoning module HTML5Networking (324)
+[2020.11.14-17.26.09:669][394]LogModuleManager: Shutting down and abandoning module AlembicImporter (322)
+[2020.11.14-17.26.09:683][394]LogModuleManager: Shutting down and abandoning module AlembicLibrary (321)
+[2020.11.14-17.26.09:683][394]LogModuleManager: Shutting down and abandoning module GeometryCache (320)
+[2020.11.14-17.26.09:683][394]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (319)
+[2020.11.14-17.26.09:683][394]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (314)
+[2020.11.14-17.26.09:683][394]LogModuleManager: Shutting down and abandoning module PluginBrowser (312)
+[2020.11.14-17.26.09:714][394]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (310)
+[2020.11.14-17.26.09:730][394]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (308)
+[2020.11.14-17.26.09:739][394]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (306)
+[2020.11.14-17.26.09:740][394]LogModuleManager: Shutting down and abandoning module UObjectPlugin (304)
+[2020.11.14-17.26.09:740][394]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (302)
+[2020.11.14-17.26.09:763][394]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (300)
+[2020.11.14-17.26.09:816][394]LogModuleManager: Shutting down and abandoning module GitSourceControl (298)
+[2020.11.14-17.26.09:833][394]LogModuleManager: Shutting down and abandoning module SourceControl (297)
+[2020.11.14-17.26.09:850][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (294)
+[2020.11.14-17.26.09:851][394]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (292)
+[2020.11.14-17.26.09:851][394]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (290)
+[2020.11.14-17.26.09:851][394]LogModuleManager: Shutting down and abandoning module Paper2DEditor (288)
+[2020.11.14-17.26.09:882][394]LogModuleManager: Shutting down and abandoning module MeshPaint (287)
+[2020.11.14-17.26.09:882][394]LogModuleManager: Shutting down and abandoning module LevelEditor (285)
+[2020.11.14-17.26.09:933][394]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (284)
+[2020.11.14-17.26.09:971][394]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.11.14-17.26.09:979][394]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.11.14-17.26.09:979][394]LogDirectoryWatcher: A directory notification for 'E:/GameDev/Unreal/GITHUB/IML/MyProject_01/Binaries/Win64' was aborted.
+[2020.11.14-17.26.09:996][394]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (276)
+[2020.11.14-17.26.09:996][394]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (274)
+[2020.11.14-17.26.10:010][394]LogModuleManager: Shutting down and abandoning module PhysXVehicles (272)
+[2020.11.14-17.26.10:010][394]LogModuleManager: Shutting down and abandoning module OculusEditor (270)
+[2020.11.14-17.26.10:025][394]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (268)
+[2020.11.14-17.26.10:025][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (266)
+[2020.11.14-17.26.10:025][394]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (264)
+[2020.11.14-17.26.10:025][394]LogModuleManager: Shutting down and abandoning module UdpMessaging (262)
+[2020.11.14-17.26.10:126][394]LogModuleManager: Shutting down and abandoning module TcpMessaging (260)
+[2020.11.14-17.26.10:227][394]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (258)
+[2020.11.14-17.26.10:278][394]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (256)
+[2020.11.14-17.26.10:286][394]LogModuleManager: Shutting down and abandoning module FacialAnimation (254)
+[2020.11.14-17.26.10:286][394]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (252)
+[2020.11.14-17.26.10:295][394]LogModuleManager: Shutting down and abandoning module GraphEditor (251)
+[2020.11.14-17.26.10:367][394]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.11.14-17.26.10:370][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2020.11.14-17.26.10:370][394]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (244)
+[2020.11.14-17.26.10:370][394]LogModuleManager: Shutting down and abandoning module AdvancedSessions (242)
+[2020.11.14-17.26.10:370][394]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2020.11.14-17.26.10:370][394]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2020.11.14-17.26.10:386][394]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2020.11.14-17.26.10:408][394]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2020.11.14-17.26.10:408][394]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2020.11.14-17.26.10:408][394]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2020.11.14-17.26.10:408][394]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2020.11.14-17.26.10:448][394]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2020.11.14-17.26.10:448][394]LogModuleManager: Shutting down and abandoning module Media (225)
+[2020.11.14-17.26.10:455][394]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.11.14-17.26.10:455][394]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.11.14-17.26.10:455][394]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.11.14-17.26.10:521][394]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.11.14-17.26.10:532][394]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.11.14-17.26.10:532][394]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.11.14-17.26.10:570][394]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.11.14-17.26.10:582][394]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.11.14-17.26.10:629][394]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.11.14-17.26.10:640][394]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.11.14-17.26.10:657][394]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.11.14-17.26.10:708][394]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.11.14-17.26.10:773][394]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.11.14-17.26.10:780][394]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.11.14-17.26.10:845][394]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.11.14-17.26.10:845][394]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.11.14-17.26.10:926][394]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.11.14-17.26.10:926][394]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.11.14-17.26.10:931][394]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.11.14-17.26.10:931][394]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.11.14-17.26.10:931][394]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.11.14-17.26.10:942][394]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.11.14-17.26.10:942][394]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2020.11.14-17.26.10:942][394]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2020.11.14-17.26.10:994][394]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2020.11.14-17.26.10:994][394]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2020.11.14-17.26.11:028][394]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2020.11.14-17.26.11:045][394]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2020.11.14-17.26.11:055][394]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2020.11.14-17.26.11:078][394]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2020.11.14-17.26.11:100][394]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2020.11.14-17.26.11:123][394]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2020.11.14-17.26.11:714][394]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.11.14-17.26.11:829][394]LogDerivedDataCache: Shutdown
+[2020.11.14-17.26.11:829][394]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2020.11.14-17.26.11:850][394]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2020.11.14-17.26.11:862][394]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2020.11.14-17.26.11:876][394]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2020.11.14-17.26.11:905][394]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2020.11.14-17.26.11:911][394]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2020.11.14-17.26.11:924][394]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2020.11.14-17.26.11:935][394]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2020.11.14-17.26.11:946][394]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2020.11.14-17.26.11:946][394]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2020.11.14-17.26.11:973][394]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2020.11.14-17.26.11:973][394]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2020.11.14-17.26.11:973][394]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2020.11.14-17.26.11:980][394]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2020.11.14-17.26.11:990][394]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2020.11.14-17.26.12:003][394]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2020.11.14-17.26.12:015][394]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2020.11.14-17.26.12:022][394]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2020.11.14-17.26.12:023][394]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2020.11.14-17.26.12:035][394]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2020.11.14-17.26.12:051][394]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2020.11.14-17.26.12:067][394]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2020.11.14-17.26.12:068][394]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2020.11.14-17.26.12:079][394]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2020.11.14-17.26.12:089][394]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2020.11.14-17.26.12:089][394]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2020.11.14-17.26.12:089][394]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2020.11.14-17.26.12:089][394]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2020.11.14-17.26.12:099][394]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2020.11.14-17.26.12:109][394]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2020.11.14-17.26.12:197][394]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2020.11.14-17.26.12:197][394]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2020.11.14-17.26.12:197][394]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.11.14-17.26.12:227][394]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.11.14-17.26.12:227][394]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.14-17.26.12:233][394]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E6097DE-4DBC-8E93-B54C-17A658CA70B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=dab985eb449ee4f1b342389e404cab9f%7C845779d9bd904572b61cf91381b7a44e%7C4e718ad1-99cd-4dc7-9063-d4e2b6f3fd7d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.11.14-17.26.12:314][394]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.11.14-17.26.12:365][394]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.11.14-17.26.12:378][394]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.11.14-17.26.12:406][394]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.11.14-17.26.12:432][394]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.11.14-17.26.12:537][394]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.11.14-17.26.12:537][394]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.11.14-17.26.12:537][394]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.11.14-17.26.12:615][394]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.11.14-17.26.12:635][394]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.11.14-17.26.12:635][394]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.11.14-17.26.12:635][394]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.11.14-17.26.12:679][394]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.11.14-17.26.12:698][394]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.11.14-17.26.12:698][394]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.11.14-17.26.12:728][394]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.11.14-17.26.12:757][394]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.11.14-17.26.12:768][394]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.11.14-17.26.12:768][394]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.11.14-17.26.12:994][394]LogExit: Exiting.
+[2020.11.14-17.26.13:177][394]Log file closed, 11/14/20 23:26:13
